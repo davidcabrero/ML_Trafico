@@ -1,0 +1,1842 @@
+street,latitude,longitude,currentSpeed,freeFlowSpeed,currentTravelTime,freeFlowTravelTime,confidence,roadClosure
+Camino de Santurio,43.4964918,-5.6367545,35,35,143,143,1,False
+Camín de Los Acebos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Oscar Olavarría,43.5462533,-5.6647202,21,26,290,234,0.963129,False
+Camín de La Frontera,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Doctor Bellmunt,43.5366682,-5.6575695,26,34,522,399,0.995637,False
+Plaza de la Institución Libre de Enseñanza,43.5390054,-5.6998881,20,25,477,382,0.950128,False
+Carretera Gijon - Oviedo,43.453009,-5.7612028,62,62,840,840,1,False
+Calle Navarra,43.5374655,-5.6510452,18,23,397,311,0.975322,False
+Calle Dorotea,43.5310583,-5.694873,54,54,1118,1118,1,False
+Calle La Mancha,43.5242278,-5.6723992,23,29,173,137,0.99,False
+Camín del Mortuoriu,43.458737,-5.7560442,100,100,636,636,1,False
+Paseo del Doctor Fleming,43.5374221,-5.6377361,35,35,183,183,1,False
+Callejón de las Fieras,40.4726879,-5.3289951,40,40,70,70,1,False
+Calle Alejandro Goicoechea Oriol,43.5309892,-5.6900044,56,56,886,886,1,False
+Carretera Xixón - Avilés,43.5450886,-5.7280357,73,73,663,663,1,False
+Carretera vieya de Lluanco a L'Empalme,43.5495095,-5.7302875,74,74,668,668,1,False
+Rotonda de La Pecuaria,43.5263411,-5.6100432,36,36,347,347,1,False
+Calle Pintor Carreño Miranda,43.5356829,-5.6441826,35,35,183,183,1,False
+Plaza Villamanín,43.5380319,-5.6638426,18,23,397,311,0.975322,False
+Calle de La Soledad,43.5468459,-5.6650579,18,23,397,311,0.975322,False
+Travesía de la Mina de Los Areneros,43.5510078,-5.7079515,42,42,462,462,1,False
+Profesor Pérez Pimentel,43.5330962,-5.627573,36,36,347,347,1,False
+La Carbayera,43.5275629,-5.615159,49,49,1147,1147,1,False
+Estacion de Servicios Poligono Bankunion 1,43.5409364,-5.6667414,26,34,522,399,0.995637,False
+Calle Concejo de El Franco,43.5230861,-5.6534553,28,28,258,258,1,False
+Camín de Runza,43.4850737,-5.6199934,49,49,1450,1450,1,False
+El Cañaveral,18.2532114,-96.1577533,71,71,718,718,1,False
+Calle Isabel la Católica,43.5337467,-5.6448446,26,34,522,399,0.995637,False
+Calle Lanuza,43.5286481,-5.679794,42,55,33,25,0.97,False
+Calle Vicente Aleixandre,43.5229456,-5.6866331,37,37,101,101,1,False
+Camino del Salgar,43.5469589,-5.631101,50,50,458,458,1,False
+Calle Hipatia de Alejandría,43.5214709,-5.6088566,49,49,1147,1147,1,False
+Camin del Estanco,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Santa Rufina,43.5339687,-5.6611108,48,48,1664,1664,1,False
+La Mancha,43.5242278,-5.6723992,23,29,173,137,0.99,False
+Calle J Vagoneros,43.4851726,-5.6548518,37,37,77,77,1,False
+Calle Mieres,43.2514297,-5.7795184,109,109,607,607,1,False
+Calle San Salvador,43.5399462,-5.6975148,20,25,477,382,0.945857,False
+Calle Baleares,43.5287011,-5.6701503,26,26,153,153,1,False
+Pasarela de Pumarín,43.5288394,-5.677682,17,28,46,28,0.99,False
+Calle Magallanes,43.5398081,-5.7025795,20,25,477,382,0.945857,False
+Calle Desfiladero de Los Arrudos,43.5373869,-5.6806456,21,26,290,234,0.964496,False
+Camín de Requejo,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Circuito de automodelismo,25.6915055,-100.5022637,63,63,184,184,1,False
+Camín Rial de Garbelles,43.4774285,-5.6231402,49,49,1450,1450,1,False
+Vía de servicio,39.2370648,-4.3372277,57,57,60,60,1,False
+Cruce Carretera General,42.1627023,-5.2685053,79,79,60,60,1,False
+Calle Álvarez Garaya,43.5409923,-5.6656273,29,29,169,169,1,False
+Camin de Los Areneros,43.4862262,-5.7034707,38,38,282,282,1,False
+Camín de La Piñona,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín del Cine,43.458737,-5.7560442,100,100,636,636,1,False
+Cabrales,43.5398901,-5.6600014,19,23,376,311,0.975322,False
+Camín de los Quiñones,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Rio Porcía,43.5202567,-5.6622534,48,48,1664,1664,1,False
+Calle Concejo de Muros del Nalon,43.524123,-5.6533173,28,28,258,258,1,False
+Camin de Colate,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de La Fombica,43.5013129,-5.6899544,53,53,1368,1368,1,False
+Calle Rosario Trabanco,43.5300872,-5.6621211,48,48,1664,1664,1,False
+Plaza de Patricio Adúriz,43.5191299,-5.668939,48,48,971,971,1,False
+Calle Avelino González Mallada,43.5326726,-5.6502274,28,28,258,258,1,False
+Camín de La Gola,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Manuel Martínez Blanco (El Maestru),37.9769273,-1.0733244,32,32,189,189,1,False
+Carretera de Pola de Siero,43.5270584,-5.6552407,23,33,315,219,0.991805,False
+Calle Antonio Gaudí i Cornet,43.5082733,-5.6898443,100,100,636,636,1,False
+Estación de Autobuses,43.4649087,-7.052016,45,45,102,102,1,False
+Calle Lepanto,43.5393343,-5.6865713,21,26,290,234,0.964496,False
+Camin de Camarranas,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Caleya del Agua,43.4708871,-5.6088078,106,106,552,552,1,False
+Camino de Cabueñes,43.5313485,-5.6139718,45,45,540,540,1,False
+Estacion del ferrocarril (E.P.),43.5408554,-5.672105,29,29,169,169,1,False
+Calle Teniente General Gutiérrez Mellado,43.5181262,-5.6695324,48,48,971,971,1,False
+Contrueces,43.5159162,-5.6611193,76,76,44,44,1,False
+Camin de Les Cabañes,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Concejo de Lena,43.5234788,-5.6447919,108,108,63,63,1,False
+Calle Poeta Alfonso Camín,43.5308017,-5.6604278,23,28,401,329,0.994127,False
+Calle San Rufino,43.532638,-5.6434742,24,34,566,399,0.995708,False
+Camín de La Fana a Tremañes,43.5140199,-5.6913562,54,56,71,68,0.986992,False
+Concha Espina,43.5224594,-5.6848637,37,37,101,101,1,False
+Cementerio de El Sucu,43.5256753,-5.6577591,23,33,315,219,0.991805,False
+Calle Río Caudal,43.4041514,-5.8069871,26,33,794,625,0.948713,True
+Camín del Centru Cultural,43.4954999,-5.6796367,46,46,222,222,1,False
+El Regatón,43.4585,-3.8580479,96,96,153,153,1,False
+Camín de Trabanco,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Control,43.545229,-5.6619245,29,29,169,169,1,False
+Camín del Xabeletu,43.458737,-5.7560442,100,100,636,636,1,False
+Plaza Sara Suárez Solís,43.5211404,-5.6743798,24,32,464,348,0.99756,False
+Acceso al hospital,39.6417235,-0.6188079,63,63,15,15,1,False
+La Estrella,43.5409594,-5.6891779,19,25,503,382,0.944276,False
+Camín de Serin,43.4987854,-5.7782733,112,112,27,27,1,False
+Pabellón de La Arena,43.4948793,-5.604545,106,106,552,552,1,False
+Camino de Bérbora,43.5303576,-5.6085074,35,35,262,262,1,False
+Calle Dionisio de la Huerta,43.5312471,-5.6336649,30,30,89,89,1,False
+Carril bici Avenida de Albert Einstein,43.5276009,-5.6344985,50,50,1092,1092,1,False
+Calle Julio Fernández,43.5466671,-5.6644247,19,23,376,311,0.975322,False
+Jardines de la Reina,20.6442341,-103.228555,24,24,1281,1281,1,False
+Camín de Los Buracos,43.4862262,-5.7034707,38,38,282,282,1,False
+Avelino G. Mallada,43.5326726,-5.6502274,28,28,258,258,1,False
+Camín de les güertes d'ociu,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Camín del Pascón,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Cobradores,43.5169542,-5.6783472,53,53,1368,1368,1,False
+Camino de los Nisperos,43.5439601,-5.6068104,50,50,458,458,1,False
+Calle Felipe V,43.5362771,-5.6493351,19,23,376,311,0.975322,False
+Camín de los Burullinos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Siglo XX,43.5295135,-5.6671119,26,26,153,153,1,False
+Camino de Los Caleros,43.5167636,-5.668944,108,108,66,66,1,False
+Acceso Recinto Ferial Luis Adaro,43.5394089,-5.6374423,45,45,540,540,1,False
+El Puentín de La Guía,43.5287126,-5.6331235,35,35,183,183,1,False
+Calle Gustave Eiffel,43.5106047,-5.6806987,53,53,1368,1368,1,False
+Camín del Colasu,43.458737,-5.7560442,100,100,636,636,1,False
+Camín del Tejar,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Balmes,43.5347885,-5.6496995,24,34,566,399,0.996375,False
+Camín de la Folguera,43.4795803,-5.7446094,69,69,16,16,1,False
+Plaza de La Soledad,42.0033303,-5.6737529,78,78,1152,1152,1,False
+Torre Bermeja,43.5266984,-5.6835409,31,36,364,314,0.992819,False
+Calle Albañiles,43.5174487,-5.6780641,53,53,1368,1368,1,False
+Calle Escultor Sebastián Miranda,43.5465562,-5.6620483,44,44,552,552,1,False
+Calle Tina Modotti,43.5328127,-5.702156,54,54,1118,1118,1,False
+Camino de los Quiñones,43.5440258,-5.6349539,49,49,463,463,1,False
+Calle Campoamor,43.5338169,-5.6523749,28,28,258,258,1,False
+Complejo deportivo Las Mestas,43.5322695,-5.6418889,24,34,566,399,0.996375,False
+Avenida Schulz (La Puerta La Villa),38.0265919,-4.522009,71,71,670,670,1,False
+Calle Panadés,43.5303213,-5.6692952,24,31,464,359,0.997566,False
+Calle Cecilia,43.5313873,-5.6960638,54,54,1118,1118,1,False
+El Mirador,-33.2906383,-68.3391782,76,76,84,84,1,False
+Travesía del Camín del Regatón,43.5573905,-5.7108224,39,48,201,163,0.841595,False
+Calle San Antonio,43.5436855,-5.6631969,29,29,169,169,1,False
+Calle Santa Doradía,43.5383863,-5.6571269,19,23,376,311,0.975322,False
+Camín de la Palmera,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Louis Pasteur,43.5096831,-5.6862599,100,100,636,636,1,False
+Camin de Moran,43.5269399,-5.6949099,36,36,97,97,1,False
+Travesía del Hospital,43.5498065,-5.703016,42,42,462,462,1,False
+Camín de la Barrera,43.4795803,-5.7446094,69,69,16,16,1,False
+Cortes de Cádiz,43.537907,-5.6849186,21,26,290,234,0.969888,False
+Camin de la Escuela,43.4958721,-5.6817885,49,49,209,209,1,False
+Calle Nicaragua,43.5396829,-5.6994049,19,25,503,382,0.951702,False
+Camin de la Fonte Peri,43.4750111,-5.7010699,53,53,1368,1368,1,False
+Farmacia,43.545229,-5.6619245,29,29,169,169,1,False
+Pañeda,43.5388647,-5.6820811,21,26,290,234,0.969888,False
+Camín de La Coría a Santurio,43.5183089,-5.6514634,70,70,41,41,1,False
+Camín Real,43.5018974,-5.8142584,112,112,100,100,1,False
+Parque Hermanos Castro,43.5398862,-5.6418642,45,45,540,540,1,False
+Calle Jerónimo González,43.5391442,-5.664993,18,23,397,311,0.975322,False
+Calle del Campon,43.5390252,-5.7099093,19,25,503,382,0.951702,False
+Calle Sierra del Aramo,43.5294153,-5.6825551,64,64,26,26,1,False
+Veriña,43.5462643,-5.7158234,54,54,20,20,1,False
+Calle Luis Adaro Ruiz-Falcó,43.5363016,-5.638746,35,35,183,183,1,False
+Avenida de Castilla,43.5384765,-5.6459104,44,44,552,552,1,False
+Calle Concejo de Teverga,43.5232781,-5.6464619,108,108,63,63,1,False
+Camín de La Torre,43.4795803,-5.7446094,69,69,16,16,1,False
+Camino de Florín,43.496547,-5.6663054,49,49,209,209,1,False
+Calle Padre José María Patac,43.5337038,-5.6563865,22,32,329,226,0.983854,False
+Camín de la Fuente del Talegueru,43.4821251,-5.7193765,62,62,840,840,1,False
+La Puerta La Villa,42.1890223,-2.2959035,48,48,576,576,1,False
+Parque Rafaela Lozana,43.5409163,-5.6922905,39,39,477,477,1,False
+Camin de Arbesú,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de les Pasaderes,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Camín del Talegueru,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Maestro Enrique Truán,43.5294475,-5.6454229,24,34,566,399,0.996375,False
+Calle Leoncio Suárez,43.5274861,-5.6651391,26,26,153,153,1,False
+Camín de La Cuestona,43.4823824,-5.7171214,62,62,840,840,1,False
+Los Caleros,43.5162713,-5.671891,48,48,971,971,1,False
+Camin de los Nogales,43.4862262,-5.7034707,38,38,282,282,1,False
+Camín del Riche,43.458737,-5.7560442,100,100,636,636,1,False
+Plaza de las Madres de la Plaza de Mayo,37.6701846,-5.9903871,50,50,1387,1387,1,False
+Camín de Alfredón,43.5053826,-5.6695737,113,113,311,311,1,False
+Camín de Las Encinas,43.4960555,-5.6995711,29,29,171,171,1,False
+Camin del Pintu,43.458737,-5.7560442,100,100,636,636,1,False
+Álvarez Garaya,43.5409923,-5.6656273,29,29,169,169,1,False
+Calle Batería,43.5468762,-5.6614711,44,44,552,552,1,False
+Poligono de Bankunion,43.5254163,-5.7157212,117,117,194,194,1,False
+Calle Laura de los Ríos,42.6328675,-5.6008225,48,48,870,870,1,False
+Caleya de Carcedo,43.5043014,-5.6171609,41,41,683,683,1,False
+Camino de Las Peonias,43.5278672,-5.6278816,14,21,15,10,0.99,False
+Camino del Lucero,43.5415589,-5.691684,39,39,477,477,1,False
+Camín de la Riega,41.7611894,-5.7674187,81,81,833,833,1,False
+Calle Murcia,43.5281403,-5.6730956,26,26,153,153,1,False
+Travesía de Vicentón,42.611187,-5.5745177,38,38,210,210,1,False
+Camin de Las Lilas,43.5333569,-5.6159609,35,35,262,262,1,False
+Travesía de La Corrada,42.8765926,-6.4296966,71,71,668,668,1,False
+Calle Chile,-28.5929105,-70.7411729,46,46,91,91,1,False
+Camín de Llantones,43.481182,-5.6799461,115,115,300,300,1,False
+Paso provisional,31.7801949,-106.2130946,55,55,62,62,1,False
+Calle Rocafort,43.5406982,-5.6417795,45,45,540,540,1,False
+Calle José Las Clotas,43.538982,-5.6634336,18,23,397,311,0.975322,False
+Calle Juan Valdés Cores,43.5346499,-5.6211,35,35,26,26,1,False
+Calle Charles Chaplin,43.4868114,-5.6531235,36,36,914,914,1,False
+Camín de Gilledo,43.4983853,-5.6642233,49,49,209,209,1,False
+El Elefante Azul,21.1947436,-101.6658558,54,54,1647,1647,1,False
+Avenida de La Metalurgia,43.5271861,-5.7127476,54,54,1118,1118,1,False
+Calle María de Echarri,43.5217637,-5.712384,56,56,886,886,1,False
+Camín de los Enebros,43.4862262,-5.7034707,38,38,282,282,1,False
+Parque de Isabel la Católica,43.5377784,-5.6422981,35,35,183,183,1,False
+Calle San Quintín,43.5394191,-5.6828464,20,26,305,234,0.971461,False
+Calle Oviedo,43.5219611,-5.6833465,26,32,428,348,0.99783,False
+Camín de La Mata,43.5108451,-5.7024222,102,102,640,640,1,False
+Calle 27 de diciembre,43.5448255,-5.6633566,29,29,169,169,1,False
+Calle Puerto de La Cubilla,43.5331004,-5.6721994,30,36,377,314,0.99424,False
+Camino Cañaveral,43.5338507,-5.6275352,15,19,270,213,0.635601,True
+Calle Mon,43.522387,-5.6698479,53,53,1368,1368,1,False
+Carril bici Avenida de Concha Espina,43.5224594,-5.6848637,37,37,101,101,1,False
+Camín de la Estación,43.4832107,-5.7189739,62,62,840,840,1,False
+Calle Periodista Adeflor,43.5377684,-5.6626601,18,23,397,311,0.975525,False
+Camino de Panes,43.5196619,-5.6606699,48,48,1664,1664,1,False
+Camín del Golf,43.458737,-5.7560442,100,100,636,636,1,False
+Caleya de Chelo Fausto,43.5116209,-5.5853176,46,46,1762,1762,1,False
+Camín de San Vicente,43.483759,-5.7011194,38,38,282,282,1,False
+Calle Bertolt Brecht,43.5349096,-5.6923178,54,54,1118,1118,1,False
+Bomberos,43.545229,-5.6619245,29,29,169,169,1,False
+Calle del Agua,43.5018933,-5.6178043,49,49,1450,1450,1,False
+Camín de Cagüezo,43.4856969,-5.6703057,47,47,193,193,1,False
+Calle Conde de Guadalhorce,43.5391693,-5.6644101,17,23,421,311,0.977203,False
+Cruce Infanzon,43.5155216,-5.6053801,50,50,1092,1092,1,False
+Camín de la Fuente de Manolillo,43.5189021,-5.6330576,104,104,589,589,1,False
+Camín de La Fontana,43.4795803,-5.7446094,69,69,16,16,1,False
+Camino de Los Saúcos,43.5362725,-5.608722,44,44,552,552,1,False
+Travesía de la Iglesia,43.5476349,-5.7021524,25,32,5,4,0.81,False
+El Pison,43.5394927,-5.6318356,45,45,540,540,1,False
+Calle José Ramón González-Regueral,43.5421316,-5.698499,19,25,503,382,0.955564,False
+Puente de El Molinón,43.5353847,-5.6377475,35,35,183,183,1,False
+Plaza de La Serena,43.5304679,-5.6645444,22,29,419,318,0.996064,False
+Camín del Rosal,43.458737,-5.7560442,100,100,636,636,1,False
+El Hogar,10.4501696,-73.2748,85,85,943,943,1,False
+Campos Ángel Rey,25.6584683,-100.25933,43,43,220,220,1,False
+Calle Guatemala,43.5401357,-5.6939559,42,42,462,462,1,False
+Cruce de la Laboral,43.5260152,-5.6104197,41,41,683,683,1,False
+Camín del Roble,43.458737,-5.7560442,100,100,636,636,1,False
+Torre Florida,26.797972,-82.0413066,93,93,477,477,1,False
+Escalera 1,40.9384291,0.8569919,123,123,406,406,1,False
+Calle Coliseo,43.5433164,-5.7001508,42,42,462,462,1,False
+Jardines del Movimiento Indigena,43.5187387,-5.6641353,108,108,66,66,1,False
+Camin del Peñón,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Rafael Fernández,43.537569,-5.6844202,39,39,477,477,1,False
+Calle Julio Verne,43.5100124,-5.6871109,100,100,636,636,1,False
+Comisaría,43.545229,-5.6619245,29,29,169,169,1,False
+Camín d'Abelardo,43.4832798,-5.7424275,56,56,16,16,1,False
+Parque de Carlos Marx,43.5366388,-5.6734794,28,28,263,263,1,False
+Fuente del Real,43.5317196,-5.6585783,29,29,318,318,1,False
+Plaza del Ingeniero Orueta,43.5246017,-5.66838,53,53,1368,1368,1,False
+Camín de Les Vegues,43.5101106,-5.6445285,41,41,683,683,1,False
+Avenida de La Camocha,43.4904839,-5.6475356,48,48,1664,1664,1,False
+Camín de Robustiano,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Monte Deva,43.5276654,-5.6829734,87,87,51,51,1,False
+Calle Pedro Salinas,43.5234157,-5.6876068,37,37,101,101,1,False
+Calle Jesús Revuelta,43.5336145,-5.6367528,24,34,566,399,0.995708,False
+Cuesta del Cholo,43.5470105,-5.6656114,16,23,447,311,0.976147,False
+Calle Juan de la Cierva,43.5301469,-5.6888489,99,99,62,62,1,False
+Camín de la Gola,43.4795803,-5.7446094,69,69,16,16,1,False
+Camino de Los Lirios,43.5352845,-5.6286569,11,19,368,213,0.637022,True
+Calle Ruperto Velasco,43.5430789,-5.6647712,29,29,169,169,1,False
+Camín de la Fuente de la Piquera,43.4821251,-5.7193765,62,62,840,840,1,False
+Calle Peñalba,43.5343086,-5.6547532,21,33,345,219,0.995903,False
+Travesía de la Canterona,43.5314475,-5.6008888,49,49,463,463,1,False
+Carretera de San Miguel,43.5065835,-5.5754823,104,104,589,589,1,False
+Calle I Sondistas,43.4853531,-5.654068,36,36,914,914,1,False
+Calle del Piles,43.5374924,-5.6482987,16,23,447,311,0.977203,False
+Camping Deva,43.5076041,-5.6044473,104,104,589,589,1,False
+Calle Pola de Siero,43.539673,-5.6697767,28,28,263,263,1,False
+Camin de San Xuan,43.483759,-5.7011194,38,38,282,282,1,False
+Camino de la Iglesia,43.5470352,-5.7005806,42,42,462,462,1,False
+Urbanización El Rinconín,43.5193063,-5.6399053,104,104,45,45,1,False
+Camín de L'Arrionda,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Concejo de Vegadeo,43.5220412,-5.6550394,28,28,258,258,1,False
+Camín de Quintueles,43.5352539,-5.6011519,50,50,458,458,1,False
+Muelle de Fomento,43.5651054,-5.6945618,73,73,663,663,1,False
+Calle Matadero Viejo,43.5413984,-5.6700281,29,29,169,169,1,False
+Camín de Moreno,43.5001887,-5.6143516,41,41,683,683,1,False
+Calle Vicente Innerarity,43.5365997,-5.6501619,16,23,447,311,0.977203,False
+Urbanización Los Arces,43.5474934,-5.6286183,50,50,458,458,1,False
+Camin de Santa Maria,43.5333558,-5.6651751,25,31,445,359,0.998783,False
+Camino del Alto de la Cruz,43.4817394,-5.6788321,113,113,311,311,1,False
+Camin de Barrea,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Estación ALSA,43.5407689,-5.7221987,24,24,108,108,1,False
+El Parque,43.5428643,-5.702232,42,42,462,462,1,False
+Paseo de Begoña,43.5385371,-5.6612861,16,22,447,325,0.977203,False
+Calle Espinosa,43.5391926,-5.7084767,19,25,503,382,0.949134,False
+Camino de la Esperanza,43.3113208,-5.6819303,53,53,1464,1464,1,False
+Camino de la Fuente del Moro,37.4440031,-5.3877851,71,71,288,288,1,False
+Calle D,43.4860912,-5.6621523,44,44,205,205,1,False
+Camino de la Mina de Los Areneros,43.5516429,-5.7087335,19,25,503,382,0.949134,False
+Conde de Toreno,43.530972,-5.6509868,28,28,258,258,1,False
+Ctra. Villaviciosa (Escuela de Marina),43.5196184,-5.6086055,49,49,1147,1147,1,False
+Avenida de El Llano,43.5425888,-5.7092119,42,42,462,462,1,False
+Camín del Cementeriu,43.458737,-5.7560442,100,100,636,636,1,False
+Camin de los Viveros de Cabueñes,-37.3684386,-73.3387852,28,28,2162,2162,1,False
+Camino del Horno,43.5156001,-5.6738723,48,48,971,971,1,False
+Calle Leonardo da Vinci,43.5085167,-5.6878049,100,100,636,636,1,False
+Camín de Los Sietos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Esmaltadores,43.5175341,-5.6776961,53,53,1368,1368,1,False
+Camín Tras de la Torre,43.4987188,-5.7511668,117,117,194,194,1,False
+Avenida de Lloreda,43.5250214,-5.7134478,54,54,1118,1118,1,False
+Camín de La Tejera,43.497704,-5.6654608,49,49,209,209,1,False
+Dos de Mayo,43.5387826,-5.6854333,20,26,305,234,0.971461,False
+Calle Ramón Gómez Lozana,43.5101726,-5.6714945,113,113,128,128,1,False
+Puerto del Pontón,43.5320048,-5.6766759,51,74,32,22,1,False
+Camin de la Fuente de Maroto,43.4991131,-5.6625496,49,49,209,209,1,False
+Calle de Los Correctores,43.5323295,-5.6587064,29,29,318,318,1,False
+Camin del Hospital,43.458737,-5.7560442,100,100,636,636,1,False
+Camín de Suañe,43.49506,-5.727902,102,102,640,640,1,False
+Camín del Molín de Castro,43.5228582,-5.6339277,64,64,42,42,1,False
+Calle Tránsito Campo Valdés,43.5455783,-5.6613337,29,29,169,169,1,False
+Camino de Los Pinos,43.5405636,-5.6249893,49,49,463,463,1,False
+Camino de Los Narcisos,43.535899,-5.6186703,45,45,540,540,1,False
+Camín de la Rionda,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de los Llanos,43.4775936,-5.6952618,53,53,1368,1368,1,False
+Calle Daniel Palacio Fernández,43.5273513,-5.650578,108,108,63,63,1,False
+Camino de la Colina del Cuervo,43.5514948,-5.6153588,50,50,458,458,1,False
+Plaza del Gedo,43.5253031,-5.6685766,29,29,137,137,1,False
+Camín de La Vega,43.4952867,-5.6780807,46,46,222,222,1,False
+Palacio de Deportes,43.5357295,-5.6330599,45,45,540,540,1,False
+Calle Domingo García de la Fuente,43.5359327,-5.6619254,26,35,522,388,0.995708,False
+Avenida de Pablo Iglesias,43.5355182,-5.6531663,26,35,522,388,0.995708,False
+Calle Santín,43.5285524,-5.677893,21,27,37,29,1,False
+Camín de La Braña a la Ctra. del Obispo,43.5130969,-5.6759604,113,113,128,128,1,False
+Eria de Valles,43.5169966,-5.6754721,48,48,971,971,1,False
+Cuesta'l Manzanu,43.5058044,-5.7081975,53,53,29,29,1,False
+Caleya de Ería Sala,43.5027288,-5.6182496,41,41,683,683,1,False
+Intra,43.5523882,-5.7023506,42,42,462,462,1,False
+Calle Libertad,43.540744,-5.6643223,29,29,169,169,1,False
+El Paséu de Mel,43.531795,-5.7002438,54,54,1118,1118,1,False
+Calle Farenheit,43.5103462,-5.6825512,113,113,128,128,1,False
+Residencia El Carmen,25.8560618,-100.3153732,108,108,206,206,1,False
+Calle San Juan de la Cruz,43.5349608,-5.6668316,31,31,359,359,1,False
+Calle Orellana,43.5389549,-5.7060511,19,25,503,382,0.945107,False
+Camin del Monte Serin,43.4750111,-5.7010699,53,53,1368,1368,1,False
+A-8 salida 328,43.5157251,-5.6894788,113,113,128,128,1,False
+Camín de Llorio,43.4934802,-5.6711344,49,49,209,209,1,False
+Calle Fernando El Santo,43.5324883,-5.6438897,27,35,503,388,0.995123,False
+Acceso Sur a Gijón,43.537807,-5.6959139,19,25,503,382,0.945107,False
+Calle Concejo de Somiedo,43.5233543,-5.6474067,108,108,63,63,1,False
+Camino de la Frontera,43.5267333,-5.6037046,36,36,347,347,1,False
+Calle Diario El Comercio,43.5388095,-5.6732865,28,28,263,263,1,False
+Camín de La Roza a Culumbiellos,43.4709693,-5.7029426,115,115,300,300,1,False
+Camín de La Nisal,43.4795803,-5.7446094,69,69,16,16,1,False
+Parking Fomento,43.5417262,-5.6693124,29,29,169,169,1,False
+Calle Leonardo Torres Quevedo,43.5061107,-5.6897936,100,100,636,636,1,False
+Calle Bazán,43.5320456,-5.6982785,54,54,1118,1118,1,False
+Barrio Empalme-Pervera,43.5544242,-5.7338318,73,73,663,663,1,False
+Travesía de La Ería,43.5140175,-5.6284848,104,104,589,589,1,False
+Camino de la Eria de Polia,43.5455948,-5.7048142,42,42,462,462,1,False
+Carretera Luanco - Veriña,43.5495095,-5.7302875,74,74,668,668,1,False
+Camín de Aroles a Los Villares,43.4863897,-5.642533,36,36,914,914,1,False
+Travesía 3 de Isidoro Acevedo,43.5465808,-5.7053885,73,73,663,663,1,False
+Calle Jenaro Suárez Prendes,43.5096603,-5.6748894,48,48,971,971,1,False
+Camin del Rubin,43.458737,-5.7560442,100,100,636,636,1,False
+Camín de Tremes,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Junta del Puerto,37.3381278,-5.9982784,61,69,602,532,0.986222,False
+Urbanización Navalón,43.5447245,-5.6249977,49,49,463,463,1,False
+Industrias,43.5369801,-5.6745511,35,35,231,231,1,False
+Autovía del Cantábrico,43.5317665,-5.682925,87,87,51,51,1,False
+Camín de la Canterona,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Gabriela Mistral,43.5405376,-5.6979116,42,42,462,462,1,False
+Concejo de Allande,43.5431784,-5.7074431,19,25,503,382,0.938263,False
+Calle La Tecnologia,43.5303681,-5.7156552,54,54,1118,1118,1,False
+Padrino restaurante italiano,44.4338001,8.871487,42,42,173,173,1,False
+Calle Manuel Vigil Montoto,43.5368518,-5.7152283,46,46,56,56,1,False
+Ciudadela de Celestino Solar,43.5384435,-5.6585332,16,22,447,325,0.954415,False
+Centro de Salud de Pumarín,16.724027,-98.3714073,40,40,1957,1957,1,False
+Calle Palacio Valdés,43.5393323,-5.666111,16,22,447,325,0.954415,False
+"Calle Constantino Suárez ""El Españolito""",43.5289534,-5.6425418,35,35,183,183,1,False
+Calle Francisco Martínez Marina,43.5430445,-5.6624454,49,49,463,463,1,False
+Jenaro Suárez P.,43.5096603,-5.6748894,48,48,971,971,1,False
+Calle Mecánicos,43.5180049,-5.6838583,31,31,359,359,1,False
+Camin antiguu de Pion,43.5362063,-5.7300518,74,74,668,668,1,False
+Calle Nava,43.5387337,-5.6710886,28,28,263,263,1,False
+Calle Colegiata,43.5456707,-5.6639786,16,22,447,325,0.954415,False
+Travesía de los Castaños,43.5414331,-5.6090534,44,44,552,552,1,False
+Calle Los Andes,43.5376334,-5.6965664,19,25,503,382,0.938263,False
+Parque de la Fábrica de Gas,43.5389256,-5.6512997,16,22,447,325,0.954415,False
+Calle A,43.4864902,-5.663223,44,44,205,205,1,False
+Río de Oro,43.5299186,-5.6630989,48,48,1664,1664,1,False
+La Granja (Montiana),41.6548302,-4.7485223,37,37,227,227,1,False
+Camín del Barreo,43.458737,-5.7560442,100,100,636,636,1,False
+Calle La Serena,43.5302463,-5.6651364,48,48,1664,1664,1,False
+Cruce a Granda,43.4964242,-5.6699066,49,49,209,209,1,False
+Calle Tomás y Valiente,43.5410399,-5.6617145,27,34,503,399,0.995708,False
+La Fontica,43.4981559,-5.7338754,113,113,246,246,1,False
+Camín de Vinado,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de Los Maizales,43.5170591,-5.6225484,41,41,683,683,1,False
+Urbanización Molín de la Coría,43.5186215,-5.6512401,70,70,41,41,1,False
+Camín del Fondo de Porceyo,43.5102285,-5.7031233,102,102,640,640,1,False
+Calle Ventura Alvarez Sala,43.5445164,-5.6622462,20,26,305,234,0.971461,False
+Calle Paulina Canga,43.5326579,-5.7035125,20,26,141,108,0.94,False
+Travesía de Los Sietos,43.5027834,-5.6070358,104,104,589,589,1,False
+Camín de Las Camomilas,43.5319497,-5.6179306,36,36,347,347,1,False
+Camín de los Depósitos,43.4862262,-5.7034707,38,38,282,282,1,False
+"Calle Fabriciano González ""Fabricio""",43.5275648,-5.6637992,48,48,1664,1664,1,False
+Camín de la Regata,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Ronda,43.4872424,-5.6527604,36,36,914,914,1,False
+Calle Alfredo Liñero Ribero,43.5241704,-5.7098001,56,56,886,886,1,False
+Sanatorio Covadonga,43.5299429,-5.6490638,28,28,258,258,1,False
+Calle Federico González-Fierro Botas,-34.9111145,-59.9989403,31,31,451,451,1,False
+Camín de Casa Aurelio,43.527819,-5.6041024,35,35,262,262,1,False
+Camín del Roblón,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Ramón Menéndez Pidal,43.5375623,-5.6861941,54,54,1118,1118,1,False
+Calle Zapateros,43.5174467,-5.6843593,31,31,359,359,1,False
+Calle Río Eo,43.5236288,-5.6737329,53,53,1368,1368,1,False
+Camino de Las Petunias,43.5323645,-5.6289696,36,36,347,347,1,False
+Camin del Bocal,43.458737,-5.7560442,100,100,636,636,1,False
+Los Fresnos,43.5327097,-5.6611885,48,48,1664,1664,1,False
+Calle Luis Braille,43.5404353,-5.6921151,19,25,503,382,0.93004,False
+Calle del Transporte,43.5298851,-5.7037902,54,54,1118,1118,1,False
+Calle Federica Montseny,43.542944,-5.6987007,19,25,503,382,0.93004,False
+Muelle Victoria o El Muellín,43.3363579,-3.0407256,26,29,272,244,0.951837,False
+Camino de la Fuente del Pisón,43.5380262,-5.6284532,45,45,540,540,1,False
+La Guia,43.5287126,-5.6331235,35,35,183,183,1,False
+Calle León,41.6608277,-4.7470655,37,37,227,227,1,False
+Camino de La Mina,43.4868745,-5.7409442,100,100,636,636,1,False
+Avenida de José Manuel Palacio,43.5365295,-5.6884639,39,39,477,477,1,False
+Calle Menéndez y Pelayo,43.5374303,-5.6529695,16,22,447,325,0.954415,False
+Calle El Cortijo,-33.3787248,-70.6885069,101,101,225,225,1,False
+Calle Julio,43.5100124,-5.6871109,100,100,636,636,1,False
+Álava,43.5235781,-5.6785156,31,31,359,359,1,False
+Calle Marqués de Urquijo,43.5386477,-5.6468694,44,44,552,552,1,False
+Travesía de San Vicente,42.4775046,-4.1061446,90,90,901,901,1,False
+trialera de aboño,43.5532773,-5.7147539,48,48,163,163,1,False
+Calle Santa Cándida,43.5466632,-5.6610653,29,29,169,169,1,False
+Calle Pedro Pablo,43.5270612,-5.6652241,26,26,153,153,1,False
+Calle Porvenir,43.5313835,-5.6978475,54,54,1118,1118,1,False
+Avenida Gaspar García Laviana,43.5261776,-5.6696148,26,26,153,153,1,False
+Calle Fernando Morán Lavandera,43.535545,-5.6610495,26,34,522,399,0.996471,False
+Camin de La Picota,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de La Estaquera,43.4795803,-5.7446094,69,69,16,16,1,False
+Travesía del Cementerio,43.5182884,-5.7008268,110,110,29,29,1,False
+Ateneo,43.5392956,-5.6947164,42,42,462,462,1,False
+Calle Pablo Neruda,43.5396233,-5.6919397,20,26,305,234,0.96449,False
+Perez de Ayala,43.5321604,-5.6654564,48,48,1664,1664,1,False
+Senda de la Playa de Serin,43.5470508,-5.6070613,35,35,262,262,1,False
+Nuevos Juzgados,43.4656066,-5.7305504,41,41,837,837,1,False
+Plaza del Médico Félix Prieto,43.5409308,-5.7016965,54,54,1118,1118,1,False
+Estación Servicio Foro,37.6534166,-1.007712,45,45,670,670,1,False
+Ribadesella - Canero,43.5178183,-5.5790273,49,49,1147,1147,1,False
+Calle Arqueólogo Manuel Fernández-Miranda,43.5282825,-5.6397016,49,49,1147,1147,1,False
+Camín del Bebederu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle del Tránsito,43.5253035,-5.6849495,30,36,377,314,0.994368,False
+Jardín Botánico,43.5169295,-5.6254317,41,41,683,683,1,False
+Calle Navia,43.5391579,-5.6627689,16,22,447,325,0.956088,False
+Camín de Casa Pelayo,43.5007047,-5.5977718,50,50,1092,1092,1,False
+Calle Balagón,43.5398569,-5.6823686,20,26,305,234,0.96449,False
+Camín de La Belonga,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Alejandro Farnesio,43.5394808,-5.7052506,73,73,663,663,1,False
+Escuelas de Granda,43.5147198,-5.6439205,104,104,45,45,1,False
+Calle Doctor Avelino González,43.5292229,-5.6807565,50,50,46,46,1,False
+Camín de la Bodega,43.4795803,-5.7446094,69,69,16,16,1,False
+Parking El Arenal,20.776879,-103.694954,72,72,1139,1139,1,False
+Calle Concejo de Quirós,43.5229829,-5.645482,108,108,63,63,1,False
+Rotonda de Roces,43.5110532,-5.6689137,113,113,311,311,1,False
+Calle Thomas Alva Edison,43.5109376,-5.6851498,100,100,636,636,1,False
+Calle Juan Alonso,43.5405245,-5.6562282,16,22,447,325,0.956088,False
+Camín de Las Gardenias,43.5294735,-5.6221268,49,49,1147,1147,1,False
+Calle Canónigo,43.5296156,-5.6843929,87,87,51,51,1,False
+Camín de Bareza,43.5154991,-5.7139085,117,117,194,194,1,False
+Calle Pérez de Ayala,43.5321604,-5.6654564,48,48,1664,1664,1,False
+Avenida La Camocha,43.4904839,-5.6475356,48,48,1664,1664,1,False
+Calle La Tecnología,43.5303681,-5.7156552,54,54,1118,1118,1,False
+Travesía de Los Avellanos,43.5385626,-5.6052079,49,49,463,463,1,False
+Calle Marcelino Camacho,43.5131918,-5.7209314,117,117,194,194,1,False
+Carretera Carbonera 11,43.5239062,-5.6678331,48,48,971,971,1,False
+Eleuterio Quintanilla,43.5309696,-5.6654056,48,48,1664,1664,1,False
+Camín de la Llana del Monte a Tremañes,43.5132981,-5.707881,110,110,29,29,1,False
+Camín de Orpín,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle María Josefa,43.5288094,-5.6648296,48,48,1664,1664,1,False
+Paseo de la Playa de Poniente,33.810298,-118.390609,61,61,80,80,1,False
+Puente de Las Mestas,43.5322695,-5.6418889,28,34,485,399,0.996471,False
+Calle Los Astures,43.4870283,-5.6522603,36,36,914,914,1,False
+Escalera 3,44.432544,26.1126988,25,42,4,2,1,False
+Glorieta del Transporte,43.5298851,-5.7037902,54,54,1118,1118,1,False
+Calle Luis Moya Blanco,43.5230071,-5.6136318,50,50,1092,1092,1,False
+Camín de la Cumbre,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Las Margaritas,43.5347212,-5.6177957,36,36,347,347,1,False
+Puerto Tarna,43.5316127,-5.6741476,26,31,428,359,0.998536,False
+Muelle de Oriente,43.5444285,-5.664078,29,29,169,169,1,False
+Calle Soria,43.5295422,-5.6699516,26,31,428,359,0.998536,False
+Principe de Asturias,43.5709759,-5.6765797,74,74,668,668,1,False
+Senda verde de La Camocha,43.489655,-5.6475084,36,36,914,914,1,False
+Camín de Lin de Maruca,43.510115,-5.7067535,102,102,640,640,1,False
+Recreo,41.653499,-4.7467329,47,47,541,541,1,False
+Calle Prosperidad,43.545696,-5.7018926,18,25,531,382,0.934519,False
+Camino de La Muria,43.5266197,-5.697569,36,36,97,97,1,False
+Calle de La Noria,-34.7376738,-58.5002096,44,44,1538,1538,1,False
+Calle Antonio Cabanilles,43.5334288,-5.6591415,29,29,318,318,1,False
+Calle Tirso de Molina,43.5330886,-5.6468142,35,35,183,183,1,False
+Calle Luciano Castañón,43.5377593,-5.6535829,16,22,447,325,0.956078,False
+Calle Basilio Fernández López,43.5281147,-5.6145659,49,49,1147,1147,1,False
+Camín de la Fonte'l Granxu,43.4871617,-5.6301164,33,33,152,152,1,False
+Camin de Casa Andres,43.5357152,-5.7406983,48,48,408,408,1,False
+Cerilleru,43.5425888,-5.7092119,42,42,462,462,1,False
+Camino Playa de la Ñora,43.5331204,-5.5952074,44,44,552,552,1,False
+Calle Pinos,43.5313349,-5.6954627,54,54,1118,1118,1,False
+Hospital de Jove,43.5489255,-5.7009466,42,42,462,462,1,False
+Senda del Cervigón,43.5517785,-5.6141661,50,50,458,458,1,False
+Camin de los Manzanos,43.4862262,-5.7034707,38,38,282,282,1,False
+Camín de Les Fabariegues,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Caleya Chelu Pepón,43.5037022,-5.6006712,104,104,589,589,1,False
+Plaza de Granda,43.5139957,-5.6592388,48,48,1664,1664,1,False
+Tránsito de las Ballenas,43.5471192,-5.6658999,33,33,2,2,1,False
+Camín de Bérbora,43.5303576,-5.6085074,35,35,262,262,1,False
+Calle Alto del Real,43.5326489,-5.6555303,21,33,345,219,0.993497,False
+Travesía de La Vega,43.5123634,-5.6084749,106,106,552,552,1,False
+Parque Antonio Ortega,43.5223166,-5.6760581,26,31,428,359,0.997159,False
+Calle Salamanca,43.5462085,-5.6632811,44,44,552,552,1,False
+Campo Valdés,43.5451172,-5.6628974,29,29,169,169,1,False
+Calle Simón González,43.5405762,-5.6958822,18,25,531,382,0.931366,False
+Cruce de la Piti,43.4902051,-5.6722437,42,42,525,525,1,False
+Camín de Les Canales,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Accesos ZALIA Peñona-ZALIA,42.1847671,-71.1785826,56,56,82,82,1,False
+Calle Santa Justa,43.5370259,-5.6641655,27,34,503,399,0.996471,False
+Calle Río Cares,43.5195501,-5.6657303,48,48,1664,1664,1,False
+Florez Estrada,43.541789,-5.7007222,18,25,531,382,0.931366,False
+Camin de Serin,43.4987854,-5.7782733,112,112,27,27,1,False
+Calle Belice,43.5398801,-5.6936437,42,42,462,462,1,False
+Calle Aragón,43.5251099,-5.6714132,26,26,153,153,1,False
+Calle Alicia Concepción Álvarez,43.5100862,-5.6751687,48,48,971,971,1,False
+Camín de la Cuesta de Marcelo,43.5033146,-5.6015439,104,104,589,589,1,False
+Esperanto,43.531479,-5.6497244,28,28,258,258,1,False
+Dolores Ibárruri,43.52547,-5.6829394,26,31,428,359,0.997159,False
+Calle Niño Jesús,43.5256673,-5.6668931,29,29,137,137,1,False
+Camino de Las Caléndulas,43.5281694,-5.611387,36,36,347,347,1,False
+Camín de La Cruz,43.4795803,-5.7446094,69,69,16,16,1,False
+Camin de los Blancos,43.4862262,-5.7034707,38,38,282,282,1,False
+Camín de Cachai,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Muros de Galicia,43.528887,-5.6490857,28,28,258,258,1,False
+Rendueles Llanos,43.5354159,-5.6564462,27,34,503,399,0.996471,False
+Camín de Les Quintes,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Caveda,43.5351321,-5.6621733,27,31,412,359,0.996419,False
+Calle La Paz,43.5313346,-5.6578482,29,29,318,318,1,False
+Subestacion HC,43.5009741,-5.6644216,46,46,222,222,1,False
+Camín de Rozaes,43.4937635,-5.6250004,49,49,1450,1450,1,False
+Calle Concejo de Cudillero,43.5236949,-5.6528408,28,28,258,258,1,False
+Centro Asturiano,40.3169729,-3.9495331,32,32,115,115,1,False
+El Llauredal,43.5428643,-5.702232,42,42,462,462,1,False
+Carretera Oviedo - Porceyo,43.4909718,-5.7182191,62,62,838,838,1,False
+Camino del Fuerte,43.5505029,-5.6168435,48,48,1664,1664,1,False
+Calle Isidoro Acevedo,43.5508705,-5.7052446,42,42,462,462,1,False
+Carril bici de Daniel Palacio,43.5273513,-5.650578,108,108,63,63,1,False
+Rosaleda,43.545229,-5.6619245,29,29,169,169,1,False
+Callejón de Cimadevilla,43.5461205,-5.6635454,28,28,263,263,1,False
+Acceso al Parque Arqueológico,40.2341856,-3.5999716,89,89,487,487,1,False
+Calle Arquitecto Mariano Medarde,43.536792,-5.7035802,20,24,141,117,0.906835,False
+Calle de Los Moros,43.5408874,-5.6632175,29,29,169,169,1,False
+Camín de La Venta,43.4864281,-5.7560545,62,62,838,838,1,False
+GR 100 Vía de la Plata,43.5150624,-5.6896819,56,56,68,68,1,False
+Ambulatorio,43.5288394,-5.677682,28,28,28,28,1,False
+San Jose,43.5344067,-5.6618232,48,48,1664,1664,1,False
+Calle Concejo de Castrillón,43.524499,-5.6513496,28,28,258,258,1,False
+Senda fluvial del Rio Llantones,20.650737,-105.227532,30,30,201,201,1,False
+Parque Atalia,43.5185017,-5.6204479,41,41,683,683,1,False
+Grupo La Tejerona,43.5288211,-5.6535491,28,28,258,258,1,False
+Plaza Florencio Rodríguez,43.3929064,-5.6607106,36,44,247,202,0.765239,False
+Calle Monsacro,43.5260339,-5.6838134,31,31,359,359,1,False
+Camin del Trole,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Uría,43.5384595,-5.6551783,15,23,477,311,0.954395,False
+Calle Ave María,43.546375,-5.6608999,29,29,169,169,1,False
+Calle Pintor Alejandro Mieres,43.5303249,-5.645673,27,35,503,388,0.996471,False
+Camino de los Crisantemos,43.5274099,-5.6135816,49,49,1147,1147,1,False
+Avenida de Miguel Hernández,43.5230556,-5.6858061,37,37,101,101,1,False
+Travesía de Fomento,43.5417262,-5.6693124,29,29,169,169,1,False
+Calle Torno,43.5412733,-5.7039647,18,25,531,382,0.929257,False
+Calle Claudio Alvargonzalez,43.5465187,-5.6654107,15,23,477,311,0.954395,False
+Calle Fernando Vela,43.5266815,-5.6680419,26,26,153,153,1,False
+Calle Independencia,43.5396595,-5.6845467,20,26,305,234,0.960266,False
+Calle Anghera,43.5434024,-5.6627664,29,29,169,169,1,False
+Calle Morón,43.5321545,-5.6604635,26,34,522,399,0.996471,False
+Camino del Barredo,43.5484519,-5.6189962,50,50,458,458,1,False
+Calle Margarita Xirgu,43.5389781,-5.6988339,18,25,531,382,0.917175,False
+Camín de Los Pumares,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Bailén,43.5391985,-5.6845904,20,26,305,234,0.960266,False
+Calle Chopin,43.529232,-5.6841107,87,87,51,51,1,False
+Camín de Antón,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de La Llosica,43.4969253,-5.7008918,38,38,279,279,1,False
+Residencia Geriatrica,43.5198921,-5.6405399,104,104,45,45,1,False
+Parque Puerto de Vegarada,43.5292363,-5.6767225,48,48,21,21,1,False
+Campones 142,43.5295702,-5.7005461,54,54,1118,1118,1,False
+Plaza de La Braña,43.5121105,-5.6657776,115,115,300,300,1,False
+Camino de Viñao,43.5243759,-5.6405214,49,49,1147,1147,1,False
+Camin de Arnao,43.5592523,-5.7040465,42,42,462,462,1,False
+Calle Juan XXIII,43.5357653,-5.6604968,48,48,1664,1664,1,False
+Sin nombre,20.6109726,-100.4864036,82,82,226,226,1,False
+Calle Sanz Crespo,43.5399186,-5.6712092,28,28,263,263,1,False
+Calle Desfiladero de La Hermida,43.5374562,-5.6819399,20,26,305,234,0.96429,False
+Paseo de Rosario Acuña,43.5496344,-5.6379525,29,34,221,189,0.996344,False
+Camín del Molín de Lucinda,43.5167478,-5.6078942,50,50,1092,1092,1,False
+Calle la Cuestina,43.5585335,-5.7057633,48,48,163,163,1,False
+Calle Lealtad,43.5396375,-5.6816836,20,26,305,234,0.96429,False
+Calle María Guerrero,43.5210969,-5.6762261,53,53,1368,1368,1,False
+Viario interior de El Musel,43.5388095,-5.6732865,28,28,263,263,1,False
+Centro de Salud de Vega,16.724027,-98.3714073,40,40,1957,1957,1,False
+Calle Les Maestrines,43.5460427,-5.661707,29,29,169,169,1,False
+Camín de Santa María,43.5333558,-5.6651751,27,32,412,348,0.996419,False
+Río Nalon,43.5211834,-5.6657919,25,30,369,307,0.998761,False
+Calle Alegría,43.5301127,-5.6586294,25,30,369,307,0.998761,False
+Calle Juan I,43.5354648,-5.6592778,25,30,369,307,0.998761,False
+Calle Santiago Carrillo Solares,43.5274506,-5.6607312,25,30,369,307,0.998761,False
+Camín de Les Muyerines,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Calderón de la Barca,43.5342603,-5.6507104,26,34,522,399,0.996471,False
+Matadero de Gijón,43.5036683,-5.6681052,115,115,300,300,1,False
+Planta de pretratamiento,38.5683683,-6.3507308,73,76,721,693,0.857704,False
+Concejo de San Tirso de Abres,43.5417717,-5.7083904,18,25,531,382,0.919924,False
+Plaza del Acuario,43.5253031,-5.6685766,24,29,166,137,0.99,False
+Peru,43.5405208,-5.6965072,18,25,531,382,0.919924,False
+Calle Pureza,43.5321208,-5.6975083,54,54,1118,1118,1,False
+Les Mestes,47.3421195,5.0225333,40,40,16,16,1,False
+Camino del Polvorin,43.5251242,-5.684723,37,37,101,101,1,False
+Camín de la Ería,43.5169414,-5.7123787,117,117,194,194,1,False
+Accesos a El Musel,43.5650047,-5.7097745,39,39,477,477,1,False
+Calle Los Campinos,43.4643042,-5.6278161,48,48,1664,1664,1,False
+Camín de la Pinganiella,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de las Vueltas,43.5291302,-5.5924643,49,49,1147,1147,1,False
+Calle Marco Polo,43.5082443,-5.6879641,100,100,636,636,1,False
+Travesía de Los Laureles 2,43.5452906,-5.6190904,49,49,463,463,1,False
+Plaza Mayor,43.5449065,-5.6623158,29,29,169,169,1,False
+Camín de Los Avellanos,43.4862262,-5.7034707,38,38,282,282,1,False
+Avenida de La Juvería,43.5301696,-5.7139931,74,74,668,668,1,False
+Camín del Monte Les Cabañes,43.5538211,-5.7126278,48,48,163,163,1,False
+Calle Francisco Rodríguez Álvarez,43.5472076,-5.6639877,44,44,552,552,1,False
+Calle Manuel de Falla,43.5290062,-5.6855951,87,87,51,51,1,False
+"Calle Ataúlfo Friera ""Tarfe""",43.5281565,-5.702672,56,56,886,886,1,False
+Carril bici Mariano Pola,43.5400976,-5.6779585,35,35,231,231,1,False
+Calle Dolores,43.5235663,-5.6676721,48,48,971,971,1,False
+Calle Eulalia de Llanos y Noriega,43.5234669,-5.6760156,26,31,428,359,0.998536,False
+Parque de Moreda,43.5368873,-5.680827,35,35,231,231,1,False
+Calle Oscar Muñíz,43.5346302,-5.637856,28,34,229,189,1,False
+Camín de Camporredondo,43.5340146,-5.5967631,50,50,458,458,1,False
+Calle Pedro Puig Adam,43.5238679,-5.6300599,50,50,1092,1092,1,False
+Calle Profesor Aurelio Menéndez,43.5262469,-5.6513582,28,28,258,258,1,False
+Camín de la Eria,43.5169414,-5.7123787,117,117,194,194,1,False
+Ana Maria,43.5266414,-5.6653324,26,26,153,153,1,False
+Calle Pintora Pepa Osorio,43.5306059,-5.698327,73,73,663,663,1,False
+Calle María Bandujo,43.5465562,-5.6620483,44,44,552,552,1,False
+Plaza de los Donantes,43.5175567,-5.6708111,25,25,329,329,1,False
+Caleya de La Ería,43.5027288,-5.6182496,41,41,683,683,1,False
+Futuro Carril Bici Las Mestas,43.5322695,-5.6418889,27,35,503,388,0.997138,False
+Calle Puerto de Somiedo,43.531494,-5.6762379,74,74,22,22,1,False
+Calle Lastres,43.5350289,-5.6703521,17,24,91,64,0.974688,False
+Calle Torneros,43.5178939,-5.6767127,53,53,1368,1368,1,False
+Campu de Golf de Castiello,28.486615,-16.37394,46,46,331,331,1,False
+Calle Marqués de San Esteban,43.5420654,-5.6672584,29,29,169,169,1,False
+Camín de les Pedruques,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Camin de La Francia,43.4795803,-5.7446094,69,69,16,16,1,False
+Parque Cristino García Granda,43.5175631,-5.6649765,108,108,66,66,1,False
+Carretera de Arroes,43.5142888,-5.5745565,56,56,64,64,1,False
+Camino de La Nozaleda,43.4555339,-5.6224256,48,48,1664,1664,1,False
+Camín del Cascayal,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Antonio Cachero,43.5343265,-5.6593343,26,30,355,307,1,False
+Camín de La Caleyina,43.4456552,-5.6216794,48,48,1664,1664,1,False
+Calle Guillermo Rodríguez Quirós,43.5120525,-5.7268921,60,60,263,263,1,False
+Urgisa,43.545229,-5.6619245,29,29,169,169,1,False
+Calle Pintor Marola,43.5363071,-5.6456236,28,34,229,189,0.996344,False
+Camín de Pixes,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Sor Juana Inés de la Cruz,43.5194903,-5.6792073,53,53,1368,1368,1,False
+Casas Baratas,43.5336667,-5.6510749,26,35,522,388,0.997138,False
+Jardín del Dr. Fleming,43.5374221,-5.6377361,28,34,229,189,0.996344,False
+Camín del Granxu,43.458737,-5.7560442,100,100,636,636,1,False
+Camín de los Pozos de la Arena,43.4948793,-5.604545,106,106,552,552,1,False
+Granda,43.5002432,-5.6582422,49,49,1450,1450,1,False
+Calle Profesor Miguel Ángel González Muñiz,43.5344338,-5.6590784,26,30,355,307,1,False
+Viario del INTRA,43.5523882,-5.7023506,42,42,462,462,1,False
+Camino de La Parra,43.5519716,-5.7050079,42,42,462,462,1,False
+Calle Las Cruces,43.5461429,-5.6626253,44,44,552,552,1,False
+Travesía 2 de Isidoro Acevedo,43.5457539,-5.7045961,39,39,477,477,1,False
+Camino del Pontón,43.5256566,-5.7051011,74,74,668,668,1,False
+Prao del Cubano,43.5116799,-5.6765197,113,113,128,128,1,False
+Pasaje de Begoña,42.1407782,-0.4185524,54,54,697,697,1,False
+Calle Concejo de Cangas del Narcea,43.5224236,-5.6489725,108,108,63,63,1,False
+Ana María,43.5266414,-5.6653324,26,26,153,153,1,False
+Calle Max Planck,43.5030742,-5.6947522,100,100,636,636,1,False
+Cementerio de Deva,43.5106642,-5.6026174,104,104,589,589,1,False
+Calle Zorrilla,43.5293043,-5.6521068,28,28,258,258,1,False
+Calle Ceriñola,43.5393759,-5.6880504,21,26,290,234,0.965863,False
+Camín de la Escuela,43.4958721,-5.6817885,49,49,209,209,1,False
+Calle Arroyo,43.5338955,-5.6660305,27,32,412,348,0.997043,False
+Monteviento,43.5411705,-5.6139521,35,35,262,262,1,False
+Camín del Cotarón,43.458737,-5.7560442,100,100,636,636,1,False
+Colegio Rey Pelayo,43.5600674,-5.9772031,42,42,577,577,1,False
+Camín de La Ería,43.5169414,-5.7123787,117,117,194,194,1,False
+Camin del Atayu,43.458737,-5.7560442,100,100,636,636,1,False
+Camino del Curioso,43.5397712,-5.6041417,50,50,458,458,1,False
+Calle Margarita Salas,43.5318151,-5.6427069,26,35,522,388,0.997138,False
+Calle Doctor Luis Heredia Román,43.5260695,-5.6644349,26,26,153,153,1,False
+Calle Eusebio Miranda,43.539987,-5.6594799,15,23,477,311,0.949737,False
+Camín de Casielles,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Fermín Canella,43.5397427,-5.6686596,28,28,263,263,1,False
+Los Puyos,16.367147,-96.647958,46,46,1240,1240,1,False
+Calle Joaquín Solís,43.5309098,-5.6587136,26,29,355,318,1,False
+Calle Concejo de Colunga,43.5250673,-5.6506445,28,28,258,258,1,False
+Calle Concejo de Caso,43.5248416,-5.642473,49,49,1147,1147,1,False
+Parque Colonia,43.544254,-5.6343264,44,44,552,552,1,False
+Travesía de Atocha,38.0825936,-1.2561961,37,37,107,107,1,False
+Plaza de Europa,43.5380319,-5.6638426,15,23,477,311,0.949737,False
+Camín de la Ilesia,43.4795803,-5.7446094,69,69,16,16,1,False
+Casa les Pieces,43.5357173,-5.7412612,48,48,408,408,1,False
+El Molinón,43.5353847,-5.6377475,28,34,229,189,0.993113,False
+Calle Pedro Hurlé,43.5300094,-5.650275,28,28,258,258,1,False
+Calle Lima,43.5395116,-5.6984324,18,25,531,382,0.911207,False
+Calle Progreso,43.5305552,-5.6580894,23,33,315,219,0.997951,False
+Calle Muros de Galicia,43.528887,-5.6490857,28,28,258,258,1,False
+Camín de Beloño al Cementerio,43.4955148,-5.7372782,100,100,636,636,1,False
+Calle Pedro Menéndez,43.540307,-5.6614163,29,29,169,169,1,False
+Camin del Castañeu,43.4744927,-5.7129982,41,41,837,837,1,False
+Calle de Fernández Vallín,43.5396571,-5.6627188,15,23,477,311,0.949737,False
+Calle Cangas de Onís,43.5365703,-5.6675322,29,36,390,314,0.994368,False
+Calle Concejo de Caravia,43.5257034,-5.6500269,28,28,258,258,1,False
+Calle Esmeralda Maseda,43.5165023,-5.6820343,28,35,69,55,0.99,False
+Menendez Pelayo,43.5390594,-5.651893,15,23,477,311,0.949737,False
+Calle Blas Pascal,43.5059539,-5.690599,100,100,636,636,1,False
+Calle Editor Silverio Cañada,43.5368988,-5.7071698,19,24,148,117,0.943417,False
+Calle Blasco de Garay,43.5253347,-5.6299698,50,50,1092,1092,1,False
+Hogar del Llano,43.5283343,-5.6621482,25,29,369,318,1,False
+Clinica N. S. de Covadonga,43.5299429,-5.6490638,28,28,258,258,1,False
+Acceso principal Recinto Ferial Luis Adaro,43.5394089,-5.6374423,45,45,540,540,1,False
+Calle de Los Limoneros,37.840579,-0.8524418,69,69,658,658,1,False
+Parking El Rinconin,38.4007831,-0.4088211,32,36,243,216,0.955727,False
+Avenida Príncipe de Asturias,43.5351272,-5.6866626,39,39,477,477,1,False
+Plaza del Monte de Piedad,43.5432916,-5.6631219,29,29,169,169,1,False
+Camin del Tiro,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Pololo,43.5386014,-5.7090983,18,25,531,382,0.912909,False
+Senda de Peña Francia,39.6741657,-3.852271,79,79,450,450,1,False
+Calle Pedro de Lucuze y Ponce,42.3722267,-5.033505,34,34,80,80,1,False
+Calle Bolivia,43.538514,-5.6930561,42,42,462,462,1,False
+Metalurgia,43.5271861,-5.7127476,54,54,1118,1118,1,False
+Camín de Los Corredorios,43.4862262,-5.7034707,38,38,282,282,1,False
+Camín de la Cuesta San Sebastián,43.4970839,-5.7442921,102,102,640,640,1,False
+Camin de la Playa de Estaño,43.5460935,-5.6022533,50,50,458,458,1,False
+Camino de Los Cedros,43.5393849,-5.6246818,44,44,552,552,1,False
+VICASA,43.545229,-5.6619245,29,29,169,169,1,False
+Calle Gregorio Marañón,43.5342421,-5.6425801,26,35,522,388,0.996471,False
+Calle Teano,43.5066947,-5.6933611,100,100,636,636,1,False
+Calle la Iglesia,43.4931411,-5.6481877,48,48,1664,1664,1,False
+Estación de Servicio Contrueces,37.9825453,-2.330302,96,96,500,500,1,False
+Calle la Arena,43.5605502,-5.7053456,42,42,462,462,1,False
+Plaza de Severo Ochoa,37.6164818,-0.9851547,23,32,359,258,0.983674,False
+Camín de Las Presas,43.4960555,-5.6995711,29,29,171,171,1,False
+Camino de Las Margaritas,43.5347212,-5.6177957,36,36,347,347,1,False
+Campus Universitario,43.52196,-5.63098,106,106,552,552,1,False
+Calle Smara,43.5266945,-5.6495108,24,32,302,226,0.997951,False
+Parque Calle Colombia,21.0714106,-101.6400041,44,44,87,87,1,False
+Camino de Estaño,43.5465977,-5.6044744,50,50,458,458,1,False
+Centro Municipal de Empresas,42.1504127,2.4624743,57,57,164,164,1,False
+Avenida de Moreda,43.5394974,-5.680171,20,25,305,244,0.973029,False
+Calle G Camineros,43.4858811,-5.6533531,36,36,914,914,1,False
+Calle Evaristo Valle,43.5376648,-5.6522782,13,23,550,311,0.948049,False
+Camín del Tate,43.458737,-5.7560442,100,100,636,636,1,False
+Travesía de la Batería,43.5260152,-5.6104197,41,41,683,683,1,False
+Empark,43.545229,-5.6619245,29,29,169,169,1,False
+Bankunion 2 (Control),43.5420475,-5.6078409,49,49,463,463,1,False
+El Tasqueru,38.4007831,-0.4088211,31,36,251,216,0.955727,False
+Camino de los Olivos,43.545362,-5.6103883,49,49,463,463,1,False
+Calle Jovellanos,43.541727,-5.6614783,8,8,21,21,1,False
+E.S. Avenida de Portugal,43.5366666,-5.6736567,35,35,231,231,1,False
+Calle Santa Irene,43.5162628,-5.6641686,108,108,66,66,1,False
+Luis Vereterra,43.5064309,-5.7295339,117,117,194,194,1,False
+Camín de La Viñada,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de La Candelera,43.4941853,-5.6726897,46,46,222,222,1,False
+Playa de Poniente,36.7201057,-3.5428089,75,75,181,181,1,False
+Calle Bélgica,43.5221558,-5.6702617,53,53,1368,1368,1,False
+Calle del Filántropo Carlos Sánchez García,43.2780482,-8.2145279,43,43,294,294,1,False
+Camín de la Xía,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle del Horno,43.5157674,-5.6740506,48,48,971,971,1,False
+Calle Eladio Verde,43.5470339,-5.6635027,35,35,231,231,1,False
+Camín de Los Olivos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Los Prados,43.5243137,-5.6103986,49,49,1147,1147,1,False
+Camín de Los Tornos,43.4862262,-5.7034707,38,38,282,282,1,False
+Camín de la Fuente del Truébanu,43.4934606,-5.6869849,48,48,971,971,1,False
+Callejón de Nava,43.5461205,-5.6635454,28,28,263,263,1,False
+Calle Rosalía de Castro,43.5390567,-5.6897782,39,39,477,477,1,False
+Calle B,43.4863983,-5.6627608,44,44,205,205,1,False
+Avenida de Los Oscos,43.5227084,-5.6485011,108,108,63,63,1,False
+Camín de Los Jazmines,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Julio Somoza,43.5437893,-5.6618387,44,44,552,552,1,False
+Camín de Braña Berníz,43.4921237,-5.5814347,47,47,1724,1724,1,False
+Camín de La Pruvida,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Tejúa,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Aller,43.5364729,-5.6610078,24,34,566,399,0.996471,False
+Camín de Porceyo a La Pedrera,43.4967118,-5.7045778,38,38,282,282,1,False
+Camín de Riusecu,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Carretera del Obispo,43.5151369,-5.6758173,48,48,971,971,1,False
+Camín de La Perdiz,43.4962966,-5.6699617,46,46,222,222,1,False
+Camín de Arriba,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de Las Campanillas,43.5304119,-5.6152489,36,36,347,347,1,False
+Calle General San Martín,43.5401685,-5.7065751,18,25,531,382,0.926683,False
+Calle La Cantera,43.5327354,-5.7202002,74,74,668,668,1,False
+Calle Santiago,43.5274506,-5.6607312,23,29,401,318,0.998095,False
+Camin de La Estacion,43.4832107,-5.7189739,62,62,840,840,1,False
+Calle Pintores,43.5174228,-5.6831648,31,31,60,60,1,False
+Calle Bobes,43.5339322,-5.6663801,26,31,428,359,0.99853,False
+Travesia 2 de Los Arces,43.5462503,-5.6214843,49,49,463,463,1,False
+Calle Puerto de Pajares,43.5349025,-5.67455,28,28,263,263,1,False
+Camín del Monte Areo,43.5260141,-5.7442126,48,48,408,408,1,False
+Calle Santa Inés,43.5377082,-5.6673186,25,35,543,388,0.997138,False
+Calle Cardona,43.5411539,-5.7051068,18,25,531,382,0.926683,False
+Camín de los Serbales,43.4862262,-5.7034707,38,38,282,282,1,False
+Alfonso Camín,43.5308017,-5.6604278,23,29,401,318,0.998095,False
+Calle Felipe Menéndez,43.5425085,-5.6657835,29,29,169,169,1,False
+Plaza de Los Campinos de Begoña,43.5388083,-5.6600266,13,23,550,311,0.949737,False
+Urbanizacion el Rinconin,43.5193063,-5.6399053,104,104,45,45,1,False
+Calle Profesor Potter,43.5222935,-5.612019,49,49,1147,1147,1,False
+Vial de acceso a la comisaria de la Policía Local,43.5643792,-5.7105422,48,48,163,163,1,False
+Carretera d'Avilés,43.5491954,-5.7302513,74,74,668,668,1,False
+Calle Puerto del Palo,43.5335198,-5.6785496,28,28,263,263,1,False
+Calle Ruta del Alba,43.5374562,-5.6819399,20,26,305,234,0.973029,False
+Jenaro Suarez P.,43.5096603,-5.6748894,48,48,971,971,1,False
+Mieres,43.2531781,-5.7793636,103,103,23,23,1,False
+Felguera Calderería Pesada,43.5370808,-5.6543429,14,23,511,311,0.949737,False
+Calle Barreiros,43.5297768,-5.6842969,87,87,51,51,1,False
+Calle Río de Oro,43.5299186,-5.6630989,48,48,1664,1664,1,False
+Camín de la Armería d'Arriba,43.5016965,-5.6112989,41,41,683,683,1,False
+Calle de La Trinchera,43.5287717,-5.6986431,56,56,886,886,1,False
+Calle Gregorio García Jove,43.5463282,-5.6620958,44,44,552,552,1,False
+Camin de la Cuesta Ñales,43.5137972,-5.5901385,47,47,1724,1724,1,False
+Caleya del Depósitu,43.4564554,-5.6078278,47,47,1724,1724,1,False
+Calle Ramón del Valle Inclán,43.5189153,-5.6682775,48,48,971,971,1,False
+Avenida Juan Carlos I,41.8800515,-5.0452421,24,38,197,124,0.97545,False
+Calle Robustiana Armiño,43.5397427,-5.6686596,28,28,263,263,1,False
+Camín de Las Amapolas,43.5281088,-5.61726,41,41,683,683,1,False
+Calle El Pisón,43.5707501,-5.7272083,36,36,335,335,1,False
+Les Cabañes,43.5538211,-5.7126278,48,48,163,163,1,False
+Camin de la Carbayera,43.4994999,-5.6618045,46,46,222,222,1,False
+Camín del Carbayón,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Marqués de Casa Valdés,43.5389556,-5.6540076,14,23,511,311,0.949737,False
+Carril bici La Calzada,43.5392956,-5.6947164,42,42,462,462,1,False
+Calle Pedro Duro,43.5413697,-5.6666448,35,35,231,231,1,False
+Calle Ángel Bejar,36.7510559,-3.5274649,44,44,216,216,1,False
+Calle Esther Sastre,43.5307138,-5.6974632,54,54,1118,1118,1,False
+Camino de La Carbayera a La Perdiz,43.5032474,-5.6635559,48,48,1664,1664,1,False
+Calle Peña Mea,43.524082,-5.6846332,37,37,101,101,1,False
+Urbanización Bertrand,43.5236747,-5.6412142,106,106,552,552,1,False
+Camino del Vallin de La Providencia,43.5463403,-5.6249957,50,50,458,458,1,False
+Mercancías C.C. Los Fresnos,43.5327097,-5.6611885,48,48,1664,1664,1,False
+El Alto,43.5326489,-5.6555303,23,33,315,219,0.997951,False
+Camín de Les Mariñes a Lleme,43.4982307,-5.7388658,60,60,263,263,1,False
+Calle Joaquín Fernández Acebal,43.540837,-5.659447,14,23,511,311,0.949737,False
+Calle San Manuel,43.5246787,-5.6643916,48,48,1664,1664,1,False
+Carril bici Avenida de El Llano,43.5425888,-5.7092119,42,42,462,462,1,False
+Camín de Pumarada,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camino de los huertos de ocio,16.3812009,-94.1910449,90,90,131,131,1,False
+Calle Les Pedreres,43.488572,-5.6509755,36,36,914,914,1,False
+Porceyo (Centro Comercial),43.5048426,-5.7245062,113,113,246,246,1,False
+Camín del Reburiu,43.458737,-5.7560442,100,100,636,636,1,False
+Camino de Contrueces,43.5083504,-5.6617108,115,115,300,300,1,False
+Parque Primero de Mayo,43.4865579,-5.6505847,36,36,914,914,1,False
+Camín de la Fuente Rozaes,43.4981541,-5.6316806,33,33,152,152,1,False
+Calle Antolín de la Fuente Cla,43.520474,-5.6629374,48,48,1664,1664,1,False
+Calle de Carlos Marx,43.5366388,-5.6734794,28,28,263,263,1,False
+Camino de Los Agapantos,43.529981,-5.6078247,49,49,463,463,1,False
+Carretera Xixón-Avilés,43.5450886,-5.7280357,73,73,663,663,1,False
+Calle San Guillermo,43.5239789,-5.6682337,53,53,1368,1368,1,False
+Camino de La Saltadera,43.5492673,-5.6171978,50,50,458,458,1,False
+Camino de La Candasina,43.5495605,-5.7065404,42,42,462,462,1,False
+Calle Santa Amelia,43.5201983,-5.6611628,48,48,1664,1664,1,False
+Calle Valencia,38.3755295,-0.4166187,40,40,883,883,1,False
+Calle del General Suárez Valdés,43.5331643,-5.6485261,25,35,543,388,0.997138,False
+Camín de Las Medinas,43.4918872,-5.6268662,41,41,683,683,1,False
+Camín de los Madroños,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle San Luis,43.5367416,-5.6562157,25,35,543,388,0.997138,False
+Travesía 1 de Los Arces,43.5513807,-5.6377928,50,50,458,458,1,False
+Calle Aurora de Albornoz,43.538732,-5.6913118,39,39,477,477,1,False
+Camín del Valdeguín,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Recoletas,43.5456136,-5.6631393,26,26,67,67,1,False
+Camín de Los Fresnos,43.4862262,-5.7034707,38,38,282,282,1,False
+Codema,43.545229,-5.6619245,29,29,169,169,1,False
+General Suarez Valdes (Feijoo),43.5319946,-5.6486088,26,35,522,388,0.996291,False
+Montevil Oeste,43.5230124,-5.6805547,24,31,464,359,0.998523,False
+Calle Cortes de Cádiz,43.537907,-5.6849186,20,26,305,234,0.968899,False
+Travesía Atanasio Menéndez,43.5406832,-5.6810246,18,25,531,382,0.926558,False
+Camín de Vicentín,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Cirujeda,43.5327259,-5.6553977,23,33,315,219,0.997951,False
+Calle Solar,43.5374708,-5.7069341,20,25,141,113,0.94805,False
+Calle Dindurra,43.5384286,-5.6581586,14,23,511,311,0.949737,False
+Parque de Les Palmeres,41.4383348,2.2229892,16,19,188,158,0.981656,False
+Calle Barcas,43.5400303,-5.7043147,18,25,531,382,0.926558,False
+Camino de la Estación,43.5407689,-5.7221987,24,24,108,108,1,False
+Mercado del Sur,43.537807,-5.6959139,18,25,531,382,0.926558,False
+Camino del Saleru,43.5064035,-5.5839919,46,46,1762,1762,1,False
+Porceyo,43.5003736,-5.7069402,53,53,29,29,1,False
+Camín de Morán,43.5269399,-5.6949099,36,36,97,97,1,False
+Sendero litoral de la Costa Este,43.5517785,-5.6141661,50,50,458,458,1,False
+San José,43.5344067,-5.6618232,48,48,1664,1664,1,False
+Calle de la Tecnología,43.533601,-5.7183419,74,74,668,668,1,False
+Calle W-7,43.5314544,-5.6921099,56,56,886,886,1,False
+Camín de La Fuente Isabel II,43.4821251,-5.7193765,62,62,840,840,1,False
+Camino Viejo del Musel,43.5515719,-5.7034321,42,42,462,462,1,False
+Calle Cuba,43.5390785,-5.6938993,20,26,477,367,0.931268,False
+Calle García Blanco,43.5337119,-5.6628064,48,48,1664,1664,1,False
+Calle Concejo de Illano,43.5434335,-5.7046154,20,26,477,367,0.931268,False
+Calle de Berto Turulla,40.2972447,-3.8063259,20,36,61,34,1,False
+Calle Felipe II,43.5385245,-5.7033716,20,26,477,367,0.931268,False
+Calle Palencia,43.5367625,-5.6611671,14,23,511,311,0.949737,False
+Calle María Teresa León,43.5226808,-5.6861513,30,36,377,314,0.994368,False
+Camín de Las Anémonas,43.5294453,-5.6152069,45,45,540,540,1,False
+Viesques,43.4461507,-5.6281151,45,45,484,484,1,False
+Travesía de Las Arenas,43.5451648,-5.6288479,49,49,463,463,1,False
+Camin de Casa Tuto,43.556142,-5.7107149,42,42,462,462,1,False
+Camino de Los Avellanos,43.5376568,-5.6075281,44,44,552,552,1,False
+Alimerka,43.545229,-5.6619245,29,29,169,169,1,False
+Camín del Bayu,43.458737,-5.7560442,100,100,636,636,1,False
+Camino del Lunes,43.5578839,-5.7130581,48,48,163,163,1,False
+Calle Río Nora,43.519838,-5.661696,48,48,1664,1664,1,False
+Calle Luisa Balanzat,43.5227009,-5.678781,24,31,464,359,0.998523,False
+Calle Laviana,43.5261776,-5.6696148,26,26,153,153,1,False
+Camín de Les Poncianes,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Victoria Kent,43.5369051,-5.6927423,42,42,462,462,1,False
+Calle Llaranes,43.5344198,-5.6695131,36,36,314,314,1,False
+Calle Feijoo,43.5321006,-5.6508833,28,28,258,258,1,False
+Travesía Estanco,43.5191261,-5.5985085,49,49,1147,1147,1,False
+Paseo del Muro,43.5420472,-5.6590004,14,23,511,311,0.949737,False
+Camín de La Fontica - La Salle,43.5469764,-5.6604112,29,29,169,169,1,False
+Calle Luis Cernuda,43.522135,-5.6870887,28,36,133,104,0.654639,False
+Camín de La Ina,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle La Piquiella,43.489655,-5.6475084,36,36,914,914,1,False
+Gran Capitán,43.5396855,-5.7036395,20,26,477,367,0.928286,False
+Camino de la Fábrica de Loza,43.5393501,-5.6837585,21,26,290,234,0.974491,False
+Avenida de las Industrias,43.5374451,-5.698032,20,26,477,367,0.928286,False
+Calle María Elvira Muñíz,43.5212194,-5.6784666,24,31,464,359,0.998523,False
+Camín del Requexón,43.458737,-5.7560442,100,100,636,636,1,False
+Camino de la Perdiz,43.5024099,-5.6686288,115,115,300,300,1,False
+Iglesia de San Miguel,43.4593415,-3.5798883,50,50,305,305,1,False
+Camín de Fresno,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de Paquet,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Travesía de La Duerna,43.4995347,-5.6271737,41,41,683,683,1,False
+Camino de Paquet,43.5431092,-5.7038799,20,26,477,367,0.928286,False
+Carretera del Trole,43.5170619,-5.6058892,49,49,1147,1147,1,False
+Entrada a Comisaría,43.6873129,-7.6201904,69,69,1348,1348,1,False
+Camino de Las Arenas,43.5425444,-5.6283442,44,44,552,552,1,False
+Carretera de Somonte a Tremañes,43.5270592,-5.6932296,36,36,102,102,1,False
+Carretera de Veriña a San Andres,43.5280275,-5.7388358,50,50,383,383,1,False
+Leorio de Abajo,43.5051502,-5.657442,49,49,1450,1450,1,False
+Camin de la Cuesta Laura,43.4989569,-5.7193424,44,44,15,15,1,False
+Caleya de La Vallina,43.4447858,-5.6042635,49,49,1450,1450,1,False
+Calle La Casilla,43.5435311,-5.6646555,29,29,169,169,1,False
+Calle Reconquista,43.5344224,-5.655595,26,35,522,388,0.996553,False
+Calle El Birle,43.5266028,-5.7090128,54,54,1118,1118,1,False
+Cementerio de Montiana,43.5269812,-5.7480304,48,48,408,408,1,False
+Calle del Decano Prendes Pando,43.5366157,-5.6660405,24,31,464,359,0.999262,False
+Manso,43.5395971,-5.6485132,13,23,550,311,0.949737,False
+Grupo San Marcos,43.537686,-5.690101,39,39,477,477,1,False
+Calle La Tejera,43.5343086,-5.6547532,25,32,290,226,0.995903,False
+Camín de la Fuente de San Feliz,43.5017174,-5.7099694,102,102,640,640,1,False
+Hotel Abba Playa Gijon,43.5399244,-5.6539075,14,23,511,311,0.949737,False
+Parking Plaza Seis de Agosto,43.5393583,-5.6635586,14,23,511,311,0.949737,False
+Residencia,43.5198921,-5.6405399,104,104,45,45,1,False
+Calle Senda del Arcediano,43.5372932,-5.684946,54,54,1118,1118,1,False
+Camín de las casas,43.5145636,-5.6678177,108,108,66,66,1,False
+Camino del Bosque,43.5190001,-5.5932555,50,50,1092,1092,1,False
+Camín de Cueto,43.4711707,-5.7193573,62,62,840,840,1,False
+Parque Las Cocheras,43.5209671,-5.6672702,48,48,971,971,1,False
+Accesu A-8 Villaviciosa - Santander,43.5344401,-5.6447405,25,34,543,399,0.997138,False
+Acceso a la playa de Estaño,28.3713259,-16.8705248,44,44,716,716,1,False
+Calle Zamora,20.003068,-102.293915,46,46,2034,2034,1,False
+Camín del Pondal,43.458737,-5.7560442,100,100,636,636,1,False
+Camín de Sánchez Huergo,43.4817916,-5.6931101,38,38,282,282,1,False
+Avenida de Manuel Llaneza,43.5353289,-5.6642458,24,31,464,359,0.999265,False
+Calle El Ampurdán,43.5602918,-5.7055466,42,42,462,462,1,False
+Calle San Paulino,43.5324883,-5.6438897,25,34,543,399,0.997138,False
+Camino de la Ería de Polía,43.5455948,-5.7048142,42,42,462,462,1,False
+Calle Poeta Angel González Muñíz,43.5298172,-5.6423129,27,34,238,189,0.99,False
+Puente'l Piles,16.367147,-96.647958,46,46,1240,1240,1,False
+Cuesta del Perru,43.5447144,-5.6219851,50,50,458,458,1,False
+Calle Atocha,43.5467099,-5.6640234,28,28,263,263,1,False
+Camín de Xiones,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Francisco de Paula,43.5351539,-5.6608452,22,29,419,318,0.998761,False
+Calle del Arquitecto Miguel Díaz Negrete,43.5358988,-5.7061577,20,25,141,113,0.94805,False
+Camín d'Andres M. Solar,43.5026719,-5.6023159,104,104,589,589,1,False
+Enlace Aboño - Peñamaría,43.5532773,-5.7147539,48,48,163,163,1,False
+Travesía de La Mangada,43.518765,-5.6013971,49,49,1147,1147,1,False
+Parque de El Lauredal,43.5428643,-5.702232,42,42,462,462,1,False
+Calle Usandizaga,43.5330886,-5.6468142,27,34,238,189,0.99,False
+Camín de Los Cinamomos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Jove y Hevia,43.5296809,-5.6814747,74,74,22,22,1,False
+Calle Ingeniero Isidoro Clausel,43.5245497,-5.7120922,56,56,886,886,1,False
+Calle Santa Primitiva,43.5159219,-5.6641492,108,108,66,66,1,False
+Barros,43.5410753,-5.7056426,42,42,462,462,1,False
+Camín de La Belga,43.493732,-5.6675437,49,49,209,209,1,False
+Calle Manuel Hevia Carriles,43.540805,-5.7090144,20,26,477,367,0.923646,False
+Calle Melquiades Álvarez,43.5445175,-5.662902,29,29,169,169,1,False
+Camín del Violín,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Espronceda,43.5329828,-5.6678498,24,31,464,359,0.999262,False
+Urbanización Las Lomas,43.5160113,-5.6708178,108,108,66,66,1,False
+Calle La Peña,43.5412924,-5.6853131,20,26,477,367,0.923646,False
+Calle de Los Peques,43.5323295,-5.6587064,22,29,419,318,0.998761,False
+Plaza de San Miguel,43.5393585,-5.6579971,13,23,550,311,0.949737,False
+Calle Marinos,43.5180845,-5.6776744,53,53,1368,1368,1,False
+Camín del Cuervu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Marruecos,43.5271945,-5.708458,54,54,1118,1118,1,False
+Camín de Les Maravilles a Pumarin,43.5277007,-5.6876076,87,87,51,51,1,False
+Calle Madrid,43.5426559,-5.6638212,14,23,511,311,0.949737,False
+Calle César Maese Alonso,43.5079823,-5.673835,48,48,971,971,1,False
+Parque de la Fábrica de Loza,43.538244,-5.6867449,26,26,234,234,1,False
+Caleya de Vega,43.4900684,-5.6744849,113,113,311,311,1,False
+Calderon de la Barca,43.5342603,-5.6507104,26,35,522,388,0.996291,False
+Camín del Xardín,43.5088191,-5.7034626,102,102,640,640,1,False
+Calle Balbín,43.530599,-5.6572792,23,29,401,318,0.998761,False
+Camín de la Fuente,43.4821251,-5.7193765,62,62,840,840,1,False
+Calle Hermanos Felgueroso,43.533794,-5.6574474,26,35,522,388,0.996291,False
+Valencia,43.5278669,-5.6700791,26,26,153,153,1,False
+Camino de el Caravacu,43.5425888,-5.7092119,42,42,462,462,1,False
+El Infanzon,-28.5793374,-65.402356,50,50,1922,1922,1,False
+Camín de La Ferrera,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Filipinas,43.539733,-5.6944237,20,26,477,367,0.923646,False
+Camino de Los Girasoles,43.5410413,-5.6338592,45,45,540,540,1,False
+Calle Verónica,43.5429926,-5.699103,39,39,477,477,1,False
+El Cruce,27.9945346,-15.8041731,45,45,2090,2090,1,False
+Calle Constantina Pérez y Anita Sirgo,43.487684,-5.6516252,36,36,914,914,1,False
+La Cinta,37.3427622,-2.1055845,36,36,580,580,1,False
+Calle Aurelio de Llano,43.5262469,-5.6513582,28,28,258,258,1,False
+Travesía de Las Hayas 2,43.5448253,-5.6165022,50,50,458,458,1,False
+Camino de La Coría,43.5186215,-5.6512401,70,70,41,41,1,False
+Plaza de José Avelino Díaz Fernández-Omaña,40.2818312,-3.7904192,84,84,36,36,1,False
+Peñarrubia,43.5491479,-5.6237759,50,50,458,458,1,False
+Camín de Las Magnolias,43.5429406,-5.6369693,44,44,552,552,1,False
+La Estación,43.5407689,-5.7221987,24,24,108,108,1,False
+Avenida de Rufo García Rendueles,43.5403303,-5.6502015,26,34,522,399,0.996291,False
+Camino de Lloreda a la Picota,43.5211052,-5.7057867,102,102,28,28,1,False
+Antonio Machado,43.5179177,-5.6709732,48,48,971,971,1,False
+Puerta del Sol,2.900706,-75.2670081,34,34,2013,2013,1,False
+Camín del Monticu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Jacobo Olañeta,43.541743,-5.6601944,13,24,550,298,0.948878,False
+Camín del Campón,43.458737,-5.7560442,100,100,636,636,1,False
+Calle C,-37.8430992,-57.5036199,72,72,1148,1148,1,False
+Calle Sahara,43.5313284,-5.6636972,48,48,1664,1664,1,False
+Travesía de la Fuente de San Feliz,43.5017174,-5.7099694,102,102,640,640,1,False
+Camín de Los Campones,43.4862262,-5.7034707,38,38,282,282,1,False
+Camino de Las Higueras,43.5450229,-5.6381253,49,49,463,463,1,False
+Rotonda de Sanz Crespo,43.5399186,-5.6712092,28,28,263,263,1,False
+Camin de la Fuente'l Cañu,41.5951177,1.8969495,83,83,78,78,1,False
+Camín de La Rebollada,43.4795803,-5.7446094,69,69,16,16,1,False
+"Calle B ""Barrenistas""",43.4866745,-5.6521081,14,14,29,29,1,False
+Camín del Xuncalón,43.458737,-5.7560442,100,100,636,636,1,False
+Acceso a subestacion HC,43.5090897,-5.6949084,102,102,640,640,1,False
+Muelle del Fomentín o del Carbón,43.4820589,-8.2542174,38,38,315,315,1,False
+A-8 acceso direccion santander,7.052675,-73.166928,30,35,847,726,0.673884,False
+Calle Matilde de la Torre,43.5170849,-5.6855271,26,32,428,348,0.99853,False
+Calle Luis Ortiz Berrocal,43.5235101,-5.6343153,69,69,20,20,1,False
+Calle Teruel,43.5422199,-5.6644061,27,34,503,399,0.996291,False
+Camín del Charco,43.458737,-5.7560442,100,100,636,636,1,False
+Travesia del Trole,43.5088192,-5.6138633,104,104,589,589,1,False
+Travesia del Monte,43.5471947,-5.7195317,73,73,663,663,1,False
+Camín de Los Álamos,43.4893708,-5.7485581,102,102,640,640,1,False
+Camin de Las Dalias,43.53316,-5.619023,23,23,7,7,1,False
+Leopoldo Alas,43.5331783,-5.652411,28,28,258,258,1,False
+Calle Salustio Regueral,43.5430413,-5.6645497,29,29,169,169,1,False
+Calle José Antonio Hevia Corte,43.5249515,-5.7083354,74,74,668,668,1,False
+Calle Santa Teresa de Jesús,43.5349608,-5.6668316,26,32,428,348,0.99853,False
+Plaza de La Corrada,43.5304679,-5.6645444,23,29,401,318,0.998761,False
+Camín del Llosu,43.458737,-5.7560442,100,100,636,636,1,False
+Jardines de Belarmino García González,43.3919566,-5.6567761,41,41,224,224,1,False
+Calle San Nicolás,43.5231572,-5.6705894,53,53,1368,1368,1,False
+Camín de La Trapa,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Doctor José Muñíz González,43.5348073,-5.622221,35,35,26,26,1,False
+Camín de La Canal,43.4854562,-5.74067,62,62,840,840,1,False
+Carril bici Avenida de Torcuato Fernandez Miranda,43.5356892,-5.6410411,26,34,247,189,0.988802,False
+Dionisio Cifuentes,43.535651,-5.6230262,14,19,289,213,0.675301,True
+Casa El Faque,43.5244876,-5.6005447,36,36,347,347,1,False
+General Suarez Valdes,43.5331643,-5.6485261,27,35,503,388,0.996291,False
+Calle Galileo Galilei,43.4996388,-5.6999543,38,38,282,282,1,False
+Travesía de Las Magnolias,43.5431059,-5.6411996,49,49,463,463,1,False
+Calle Emilio Tuya,43.539347,-5.650239,27,35,503,388,0.996291,False
+Carretera de Lavandera,43.4813615,-5.6479258,36,36,914,914,1,False
+Carretera de Pinzales (Camín Real),43.5093373,-5.8095201,54,54,1118,1118,1,False
+Calle Bohemia,43.5371347,-5.6750657,35,35,231,231,1,False
+Camin de Zampuca,43.4792535,-5.7460326,100,100,636,636,1,False
+Calle Túnez,43.5166692,-5.6757642,48,48,971,971,1,False
+Avd. Lauredal,43.5438124,-5.704696,42,42,462,462,1,False
+Calle Rioja,43.5328389,-5.6988104,54,54,1118,1118,1,False
+Camín de Porceyo a Tremañes,43.5131089,-5.7106317,110,110,29,29,1,False
+Calle Constantino,43.5248196,-5.6659674,29,29,137,137,1,False
+Calle Puerto de Tarna,43.5316127,-5.6741476,26,32,428,348,0.99853,False
+Calle Ada Byron,43.5210241,-5.6089015,49,49,1147,1147,1,False
+Camín del Regatu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Ramón González Fernández,43.5413664,-5.6926145,39,39,477,477,1,False
+Calle Jardineros,43.5176178,-5.6766171,53,53,1368,1368,1,False
+Camín de Monteviento,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de Campices,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Malteros,43.5168084,-5.6788268,108,108,66,66,1,False
+INEM,43.5377082,-5.6673186,27,34,503,399,0.996291,False
+Camín de Aroles,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Plaza de Los Fresnos,43.5327097,-5.6611885,48,48,1664,1664,1,False
+Camín de la Pumaradina,43.4795803,-5.7446094,69,69,16,16,1,False
+Plaza de Miguel Servet,39.3602698,-7.1343848,74,74,618,618,1,False
+Calle Zoila,43.5274861,-5.6651391,19,25,209,159,0.969782,False
+Calle Puerto de Leitariegos,43.5337216,-5.6742885,23,23,67,67,1,False
+Calle Peña Ubiña,43.5276689,-5.6812912,36,36,314,314,1,False
+Camín de Aboño,43.5532773,-5.7147539,48,48,163,163,1,False
+Camín de La Gola d'Abaxo,43.5108451,-5.7024222,102,102,640,640,1,False
+Estación de Servicio Campa,37.9825453,-2.330302,96,96,500,500,1,False
+Centro de Transportes,43.489937,-5.7616957,62,62,838,838,1,False
+Calle La Xana,43.5593787,-5.9813529,42,42,577,577,1,False
+Camping,43.5496575,-5.6367656,50,50,458,458,1,False
+Glorieta de Viñao,43.5243661,-5.6412918,106,106,552,552,1,False
+Camíno del Rio Turiellos,43.4986154,-5.6727855,113,113,311,311,1,False
+Plaza de El Carmen,43.5417415,-5.6659171,27,35,503,388,0.995623,False
+Edificio Algarve,43.545229,-5.6619245,24,29,204,169,0.978736,False
+Camín de Granda a Cabueñes,43.5121153,-5.6479027,85,85,19,19,1,False
+Plaza de la Estación,43.5407805,-5.6723363,24,29,204,169,0.978736,False
+Camin de Casa Baron,43.5516015,-5.713079,48,48,163,163,1,False
+Calle de Los Periodistas,41.4221504,2.1742922,9,14,134,86,1,False
+Calle Río Piloña,43.5186213,-5.6623149,48,48,1664,1664,1,False
+Calle Arquímedes,43.5069898,-5.6888218,100,100,636,636,1,False
+El Cantu San Xuan,18.1086969,-96.1455984,48,48,703,703,1,False
+Carreño Miranda,43.5356829,-5.6441826,26,34,247,189,0.988802,False
+Camín de La Caleyona,43.4456552,-5.6216794,48,48,1664,1664,1,False
+Calle Novorossiysk,-37.8430992,-57.5036199,72,72,1148,1148,1,False
+Calle Adolfo Vega,43.531357,-5.6650808,48,48,1664,1664,1,False
+Calle Blas Cabrera y Felipe,43.5070171,-5.6943725,100,100,636,636,1,False
+Campo de Fútbol Manuel Rubio,43.5353847,-5.6377475,26,34,247,189,0.988802,False
+Avenida Profesor Pérez Pimentel,43.5330962,-5.627573,36,36,347,347,1,False
+Calle Manuel Meana Canal,43.5129198,-5.7260058,60,60,263,263,1,False
+Calle Joaquín Alonso Díaz,43.5222808,-5.7174549,54,54,1118,1118,1,False
+Camín de La Xacona,43.4795803,-5.7446094,69,69,16,16,1,False
+Travesía La Casilla,43.5435043,-5.665097,24,29,204,169,0.978736,False
+Finca Villa Maria,-32.410657,-63.242623,74,74,813,813,1,False
+Calle María Dolores,43.5307484,-5.6971765,54,54,1118,1118,1,False
+Camín de La Romia,43.4795803,-5.7446094,69,69,16,16,1,False
+Antigua carretera de Pinzales,43.4886745,-5.7186106,62,62,838,838,1,False
+"Calle F ""Fogoneros""",43.4859165,-5.6503949,36,36,914,914,1,False
+Camín de La Reguera,43.4795803,-5.7446094,69,69,16,16,1,False
+Parque Científico y Tecnológico,23.7202324,-99.0819051,90,90,392,392,1,False
+Calle Carmen Martín Gaite,43.5165767,-5.6832821,31,31,60,60,1,False
+La Fragua,4.5948116,-74.1065391,25,31,668,539,0.998988,False
+Calle Puerto de Piedrafita,43.5304785,-5.6756488,36,36,314,314,1,False
+Camín de Cefontes,43.4850737,-5.6199934,49,49,1450,1450,1,False
+El Parchís,38.4007831,-0.4088211,36,36,216,216,1,False
+Camín de la Cuesta de Gil,43.4965405,-5.6837598,49,49,209,209,1,False
+Mostoles,40.3233492,-3.8694216,15,23,78,51,0.99,False
+"Calle María González ""La Pondala""",43.5093404,-5.7279225,60,60,263,263,1,False
+Camín de los Prados,43.5237188,-5.6072106,36,36,347,347,1,False
+Universidad Laboral,36.735413,-4.4651228,43,43,1998,1998,1,False
+Calle Álvaro de Albornoz,43.5365703,-5.6675322,36,36,314,314,1,False
+Calle de Goya,43.5244756,-5.6741674,25,32,445,348,0.997091,False
+Calle Murillo,43.5226547,-5.6734128,53,53,1368,1368,1,False
+Tránsito de Santa Luisa,37.6333537,-1.001898,39,45,774,670,0.918932,False
+Travesía del Regatu,43.545194,-5.7123566,20,25,477,382,0.933905,False
+Grupo Los Caleros,43.5162713,-5.671891,48,48,971,971,1,False
+Calle Rosal,43.5293658,-5.6473478,28,28,258,258,1,False
+Edificio de Energia,-2.9426983,-48.9595871,69,69,1094,1094,1,False
+Camín de Jaime Siero,43.5069148,-5.605246,106,106,552,552,1,False
+Acceso Feria de Muestras,41.6390917,-0.9819676,82,82,54,54,1,False
+Camino de Los Acebos,43.5428928,-5.6304412,44,44,552,552,1,False
+Parque de Rafael Marcos Delgado «Falín»,18.821103,-97.089752,37,37,1634,1634,1,False
+Carril bici de La Calzada,36.7538766,-5.1653461,73,73,721,721,1,False
+Camín de Casa Tuto,43.556142,-5.7107149,42,42,462,462,1,False
+Calle Pin de Pría,43.5262806,-5.6637365,48,48,1664,1664,1,False
+Costanilla de la Fuente Vieja,43.5404335,-5.6623423,17,24,421,298,0.947862,False
+Camín de la Cuesta'l Cementeriu,43.4989569,-5.7193424,44,44,15,15,1,False
+Camín de La Quinta,43.4795803,-5.7446094,69,69,16,16,1,False
+Carretera de L'Empalme a Avilés,43.5495095,-5.7302875,74,74,668,668,1,False
+Calle Toledo,43.5372589,-5.6928003,42,42,462,462,1,False
+Las Quintanas,42.679531,-2.9884884,84,84,703,703,1,False
+Calle Puerto Rico,43.5415635,-5.6981039,42,42,462,462,1,False
+Candenal,42.6112471,-5.5741175,56,56,105,105,1,False
+Viñao,43.5243661,-5.6412918,106,106,552,552,1,False
+Montiana,43.5266781,-5.7552499,48,48,408,408,1,False
+Camino de Los Abetos,43.5468806,-5.6128382,49,49,463,463,1,False
+Calle Juan Muñíz Zapico,43.520788,-5.6626535,48,48,1664,1664,1,False
+Calle Cabrilleros,43.5413277,-5.7034571,42,42,462,462,1,False
+Calle Munuza,43.5423203,-5.6629025,17,24,421,298,0.947862,False
+Plaza Pelayo,43.5391039,-5.6630497,17,24,421,298,0.947862,False
+Carretera de la Vizcaína,43.5386696,-5.6719615,28,28,263,263,1,False
+Calle Contracay,43.5442999,-5.6630972,24,29,204,169,0.987138,False
+Plaza de la Industria,43.5188978,-5.6857938,25,32,445,348,0.997091,False
+Parking Leroy Merlin,36.7073596,-6.1282872,51,51,500,500,1,False
+Plaza de Naval Gijón,43.5380319,-5.6638426,16,23,447,311,0.947862,False
+Camín del Teyón,43.458737,-5.7560442,100,100,636,636,1,False
+Carbayera de Caldones,43.4875094,-5.6242928,49,49,1450,1450,1,False
+Calle Juan López Peñalver,43.5225135,-5.6249592,50,50,1092,1092,1,False
+Calle Maestro Sergio Domingo,43.537134,-5.6938731,42,42,462,462,1,False
+Manuel Llaneza,43.5353289,-5.6642458,26,32,428,348,0.997085,False
+Camín de los Crisantemos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Socorro,43.5327913,-5.6982264,54,54,1118,1118,1,False
+Avenida de Eduardo Castro,43.5552505,-5.701434,42,42,462,462,1,False
+Recepción de La Laboral,43.5260152,-5.6104197,41,41,683,683,1,False
+Ramón y Cajal,43.5338884,-5.653655,28,28,258,258,1,False
+Camín de Sotiello,43.5174934,-5.7183094,117,117,194,194,1,False
+Camín de La Matona,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Sporting,43.5350432,-5.6384725,26,34,247,189,0.986887,False
+Carretera de Tabaza a Somonte,42.5025078,-5.4206673,38,46,242,200,0.70883,False
+Cruce Viñao,43.5155216,-5.6053801,50,50,1092,1092,1,False
+La Playa,43.5399244,-5.6539075,16,23,447,311,0.947862,False
+Camín del Cabalero,43.458737,-5.7560442,100,100,636,636,1,False
+Camino de La Picota,43.5246165,-5.696295,76,76,23,23,1,False
+Pablo Iglesias,43.5355182,-5.6531663,27,34,503,399,0.997138,False
+Camino de La Torre,43.525702,-5.6904156,37,37,101,101,1,False
+Paseo de Poniente - Fomento,41.6022384,-4.7996952,106,106,1265,1265,1,False
+Camín de La Pasarela,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín del Carbayu,43.4998082,-5.6597442,49,49,209,209,1,False
+Camín de La Corolla,43.4795803,-5.7446094,69,69,16,16,1,False
+Carlos Marx,43.5366388,-5.6734794,28,28,263,263,1,False
+Camino de Arriba,43.5117828,-5.6607081,48,48,1664,1664,1,False
+Plaza de El Ampurdán,43.5418514,-5.6659756,22,28,223,175,0.987138,False
+Calle Adaro,43.53563,-5.6683425,36,36,314,314,1,False
+Camino de la Fuente El Cañu,43.4972256,-5.6480586,49,49,1450,1450,1,False
+Camino del Camping,43.5496575,-5.6367656,50,50,458,458,1,False
+Fomentín,43.545229,-5.6619245,22,28,223,175,0.987138,False
+Calle Arrieta,43.5332879,-5.6461592,26,34,247,189,0.986887,False
+Camino del Rubín,43.5451923,-5.7083376,20,25,477,382,0.942129,False
+Camín de Casa Juan,43.4986993,-5.6106652,41,41,683,683,1,False
+Continental,43.545229,-5.6619245,22,28,223,175,0.987138,False
+Camín de la Melendrera a Montiana,43.5213157,-5.7550877,48,48,408,408,1,False
+Calle Gamboa,43.5289789,-5.6787178,28,28,28,28,1,False
+Travesía 2 del Camino de la Ería de Polía,43.5455948,-5.7048142,42,42,462,462,1,False
+Parque del Doctor José Eguiburu Banciella,43.5348073,-5.622221,35,35,26,26,1,False
+Carretera de Quintes,43.5179458,-5.6134981,41,41,683,683,1,False
+Calle Consolación,43.5234895,-5.6662393,48,48,971,971,1,False
+Carretera Carbonera 36,43.5219205,-5.6685619,53,53,1368,1368,1,False
+Observatorio Astronómico del Monte Deva,43.5276654,-5.6829734,87,87,51,51,1,False
+Camino de La Carretera,43.5184709,-5.6050147,49,49,1147,1147,1,False
+Camín de Los Abedules,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Dámaso Alonso,43.5219792,-5.6876994,29,37,129,101,0.650436,False
+Camín del Rubín,43.458737,-5.7560442,100,100,636,636,1,False
+Camino de Las Palmeras,43.5445854,-5.6407013,49,49,463,463,1,False
+Jardines de Samuel Gonzalez Granda,43.5407112,-5.6945277,42,42,462,462,1,False
+Calle Nicolás Redondo Urbieta,43.5153744,-5.7221524,60,60,263,263,1,False
+El Puente Casares,43.4972256,-5.6480586,49,49,1450,1450,1,False
+Calle Río Sella,43.5201585,-5.6662923,48,48,1664,1664,1,False
+Decathlon,43.545229,-5.6619245,22,28,223,175,0.987138,False
+Calle Ideal Rosales,43.5321074,-5.6335928,26,34,522,399,0.996471,False
+Camino del Cementerio,43.5405056,-5.7122351,73,73,663,663,1,False
+Calle Niort,43.5273253,-5.6517163,26,33,279,219,0.995903,False
+Calle Mariano Pola,43.5400976,-5.6779585,35,35,231,231,1,False
+Cementerio La Campa,43.5381474,-5.7121016,73,73,663,663,1,False
+Calle Trueba,43.5283213,-5.6774532,28,28,28,28,1,False
+Calle San José,43.5344067,-5.6618232,48,48,1664,1664,1,False
+Carretera de Trubia,43.5028884,-5.7377723,117,117,194,194,1,False
+Camín de Culumbiellos,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Virginia Gonzalez,43.5229232,-5.7150484,56,56,886,886,1,False
+Plaza de la Mayada d'Espineres,43.5423233,-5.6617201,16,23,447,311,0.945118,False
+Salida Veriña,43.5462643,-5.7158234,54,54,20,20,1,False
+Calle La Costa,43.5376084,-5.6565073,16,23,447,311,0.945118,False
+Servicios Tributarios del Principado,43.5501384,-5.7086071,42,42,462,462,1,False
+Calle del Aire,43.5381259,-5.6921667,42,42,462,462,1,False
+Camín de Acebal,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de La Fabariega,43.4795803,-5.7446094,69,69,16,16,1,False
+Iglesia de Contrueces,43.5159162,-5.6611193,76,76,44,44,1,False
+Calle Albuquerque,43.5269669,-5.6501377,28,28,258,258,1,False
+Travesía de Los Tulipanes,43.5312929,-5.6280765,30,30,89,89,1,False
+Camín del Valle a Montiana,43.5266781,-5.7552499,48,48,408,408,1,False
+Carretera de Ceares,43.5201761,-5.6587236,23,29,401,318,0.99684,False
+Camín d'Estaño,42.3498948,1.4571922,48,48,446,446,1,False
+Plaza central,37.3791112,-122.1165736,39,39,92,92,1,False
+Camín de la Armería d'Abaxo,43.503381,-5.6096188,104,104,589,589,1,False
+Calle Manolo Quirós,43.5373108,-5.7079947,26,26,108,108,1,False
+Calle Los Remedios,43.5459192,-5.6631515,35,35,231,231,1,False
+Humedal (Lado Semaforo),43.5398886,-5.6667847,28,28,263,263,1,False
+Parque de Belarmino Tomás,43.5368873,-5.680827,35,35,231,231,1,False
+Camín de La Iría,43.445348,-5.6221555,48,48,1664,1664,1,False
+Camín del Praón,43.458737,-5.7560442,100,100,636,636,1,False
+Carretera Lluanco - L'Empalme,43.5495095,-5.7302875,74,74,668,668,1,False
+Calle San Félix,43.5237648,-5.6657394,48,48,971,971,1,False
+Calle América del Sur,43.537807,-5.6959139,20,26,477,367,0.943756,False
+Calle Las Mercedes,43.539207,-5.6904656,21,26,290,234,0.967738,False
+Calle del Instituto,43.5433218,-5.6630246,22,28,223,175,0.987138,False
+Calle Padre Montero,43.5398609,-5.6800983,21,26,290,234,0.967738,False
+Calle Rufino García Sotura,43.5395336,-5.6976174,20,26,477,367,0.943756,False
+Carretera de Llavandera,43.4608896,-5.6211876,48,48,1664,1664,1,False
+Calle Arzobispo Valdés,43.5458914,-5.6629292,17,23,421,311,0.94633,False
+Calle Carpinteros,43.5182851,-5.6799706,53,53,1368,1368,1,False
+Paseo de Fomento,43.5385371,-5.6612861,17,23,421,311,0.94633,False
+Desguace,43.545229,-5.6619245,22,28,223,175,0.987138,False
+Calle Concejo de Soto del Barco,43.5241093,-5.6521711,28,28,258,258,1,False
+Calle Rodríguez San Pedro,43.5425167,-5.6676541,22,28,223,175,0.987138,False
+Camino de la Cuesta,43.5379965,-5.5893631,44,44,552,552,1,False
+Calle Miguel de Unamuno,43.5187479,-5.6714609,25,25,372,372,1,False
+Plaza de Campomanes,43.5371362,-5.7057099,26,26,108,108,1,False
+Parkgijon,43.545229,-5.6619245,22,28,223,175,0.987138,False
+Calle Arquitecto Miguel García de la Cruz,43.5376529,-5.7048518,26,26,108,108,1,False
+La Curva,36.7587121,-2.978146,61,61,1380,1380,1,False
+Ronda Interior de Gijón,40.372765,-3.5428492,120,120,152,152,1,False
+Calle Pintor Orlando Pelayo,43.5365246,-5.646105,17,23,421,311,0.944866,False
+Calle El Entrego,43.5337357,-5.6707774,17,22,91,70,0.984717,False
+Camín de Cortina a La Pontica,43.4992745,-5.7317255,60,60,263,263,1,False
+Calle Irene Fernández Perera,43.5196156,-5.6681291,113,113,128,128,1,False
+Calle Orán,43.5292697,-5.6792558,43,50,53,46,0.987563,False
+Calle Honesto Batalón,43.5478148,-5.664523,22,28,223,175,0.987138,False
+Acceso al RGC Covadonga,43.3083123,-5.0547548,49,49,393,393,1,False
+"Carril Bici ""El Molinón""",43.5353847,-5.6377475,26,34,247,189,0.987682,False
+Travesía de San Juan,43.5080948,-5.6777055,48,48,971,971,1,False
+Carretera de La Venta Veranes a Somonte,43.480562,-5.7509552,62,62,840,840,1,False
+Camín de La Sopeña,43.5144222,-5.7116417,117,117,194,194,1,False
+Camino de Las Hortensias,43.4806782,-5.7422664,62,62,840,840,1,False
+Calle José Martí,43.5413668,-5.6991249,20,26,477,367,0.94686,False
+Aparcamiento de El Molinón,43.5353847,-5.6377475,26,34,247,189,0.987682,False
+Calle Torner,43.5309139,-5.6462619,13,13,47,47,1,False
+Camin de Aboño,43.5532773,-5.7147539,48,48,163,163,1,False
+Plaza de Nicanor Piñole,43.5378636,-5.6615868,17,24,421,298,0.94633,False
+Camín Flor de Liborio,43.5237769,-5.594378,49,49,1147,1147,1,False
+Calle Lope de Vega,43.5333174,-5.6523992,28,28,258,258,1,False
+Rubín,43.5451923,-5.7083376,20,26,477,367,0.945986,False
+Calle Domingo Juliana,43.5405762,-5.6958822,20,26,477,367,0.945986,False
+Escalera 2,43.5420475,-5.6078409,49,49,463,463,1,False
+Camín de Vicentón,43.4976274,-5.6211853,41,41,683,683,1,False
+Calle Silencio,43.5329081,-5.6982524,54,54,1118,1118,1,False
+Camín de Los Invernaderos,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Ruiz,37.6051327,-5.7364783,64,64,413,413,1,False
+Parque de El Rinconin,43.5428643,-5.702232,42,42,462,462,1,False
+Colonia del Piles,40.0301414,-6.0958099,32,42,833,634,0.951361,False
+Calle Filósofo José Gaos,43.5341787,-5.6718943,17,22,91,70,0.984717,False
+Camino de La Cantera,43.4941033,-5.7193688,102,102,640,640,1,False
+Travesía de los Arces,43.5513807,-5.6377928,50,50,458,458,1,False
+Camín de La Barniella,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Colón,43.5336493,-5.6667791,30,35,377,323,0.982104,False
+Aulario,43.545229,-5.6619245,22,29,223,169,0.987138,False
+Calle Río Nalón,43.5211834,-5.6657919,23,29,401,318,0.996844,False
+Camín de La Zampulla,43.4795803,-5.7446094,69,69,16,16,1,False
+Acceso a Cuadras,43.5090897,-5.6949084,102,102,640,640,1,False
+Calle Peones,43.5179511,-5.683755,24,30,464,371,0.996629,False
+Camín de La Pedrera,43.4838017,-5.703187,38,38,282,282,1,False
+Camín de La Piti,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Xuana,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camino de Mataoveya,41.4994854,-5.762846,64,64,1176,1176,1,False
+Calle Puerto de La Espina,43.5327003,-5.672191,30,35,377,323,0.982104,False
+Travesia de La Carbayera,43.5110829,-5.6767469,48,48,971,971,1,False
+Curviello,43.495201,-5.5786769,47,47,1724,1724,1,False
+Calle Almacenes,43.54212,-5.6668308,22,29,223,169,0.977138,False
+Hospital de Cabueñes,43.525133,-5.6073362,49,49,463,463,1,False
+Camín de Granda a La Coría,43.5111912,-5.6513398,71,71,65,65,1,False
+Plazoleta Rubiera,43.5263974,-5.6021608,35,35,262,262,1,False
+Parque de El Rinconín,43.5428643,-5.702232,42,42,462,462,1,False
+Camín del Medio,43.5451848,-5.7018595,42,42,462,462,1,False
+Calle La Alcarria,43.5249485,-5.6701722,29,29,137,137,1,False
+Calle Ezcurdia,43.5374924,-5.6482987,17,24,421,298,0.94633,False
+Camino de servicio,39.2370648,-4.3372277,57,57,60,60,1,False
+Avenida de Manuel Sirgo,43.5239904,-5.7118093,56,56,886,886,1,False
+Camín de La Pega,43.4954674,-5.6757745,46,46,222,222,1,False
+Plaza de La Luz,36.6962154,-4.4536579,38,45,450,380,1,False
+Capua,43.5407893,-5.6583586,17,24,421,298,0.94633,False
+Calle Rosa Luxemburgo,43.4873804,-5.6519806,36,36,914,914,1,False
+Factoría Repsol Butano,37.5709186,-0.9339779,55,55,403,403,1,False
+Camín de La Baliciega,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Corrida,43.5417191,-5.6639994,28,34,485,399,0.997318,False
+Mercado,43.545229,-5.6619245,21,28,233,175,0.977138,False
+Camino de la Ñora,43.5392159,-5.5935826,50,50,458,458,1,False
+E.S. Foro,43.5311119,-5.6729924,30,35,377,323,0.982285,False
+Calle el Árbol,43.5602918,-5.7055466,42,42,462,462,1,False
+Travesía de la Nozadela,43.5260152,-5.6104197,41,41,683,683,1,False
+Camín de Las Clarisas,43.5234181,-5.6188159,49,49,1147,1147,1,False
+Camín de Morales,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Mercadona,43.545229,-5.6619245,21,28,233,175,0.977138,False
+Calle José Llama Fernández,43.5147283,-5.7258973,60,60,263,263,1,False
+Camín del Ferrerín,43.458737,-5.7560442,100,100,636,636,1,False
+"Calle O ""Oficiales""",43.4852912,-5.6553642,37,37,77,77,1,False
+Camino de Pantaleon,43.5423424,-5.6036028,44,44,552,552,1,False
+Iglesia de La Pedrera,43.493421,-5.697118,38,38,282,282,1,False
+Calle Carmen Amaya,43.5214864,-5.676836,53,53,1368,1368,1,False
+Camín de la Fuente del Álamo,43.4887322,-5.6920345,49,49,209,209,1,False
+E.S. Los Campones,43.4862262,-5.7034707,38,38,282,282,1,False
+Avenida Justo del Castillo,43.528654,-5.6353373,28,34,485,399,0.997318,False
+Río Cares,43.5195501,-5.6657303,48,48,1664,1664,1,False
+Espinosa,43.5391926,-5.7084767,19,26,503,367,0.943576,False
+Camín del Piqueru,43.458737,-5.7560442,100,100,636,636,1,False
+Calle W-6,43.5315705,-5.6923346,56,56,886,886,1,False
+Camín del Ríu,43.458737,-5.7560442,100,100,636,636,1,False
+Corin Tellado,43.5275031,-5.6436122,106,106,552,552,1,False
+Cines Yelmo,47.8641328,-114.3130155,100,100,1546,1546,1,False
+Calle Ruíz,37.6051327,-5.7364783,64,64,413,413,1,False
+Plaza del Urogallo,43.5369791,-5.6830532,21,26,290,234,0.965004,False
+Calle El Viento,-33.6178437,-70.5982776,106,106,620,620,1,False
+Fermín García Bernardo,43.5455151,-5.6640318,16,24,447,298,0.94469,False
+Accesos a La Llorea,43.5211052,-5.7057867,102,102,28,28,1,False
+Camín de Casa Angelín,43.5009069,-5.595798,104,104,589,589,1,False
+Carretera de La Providencia,43.5287708,-5.5953121,49,49,463,463,1,False
+Travesía Parque de La Llana,43.5101967,-5.7064022,102,102,640,640,1,False
+Calle Orbón,43.5330285,-5.6408271,27,34,503,399,0.997318,False
+Calle Bogotá,43.5393677,-5.6991951,42,42,462,462,1,False
+Avenida de La Electrónica,43.5278309,-5.7136566,54,54,1118,1118,1,False
+Camín del Trole,43.458737,-5.7560442,100,100,636,636,1,False
+Travesia de San Miguel,43.5127288,-5.5858178,46,46,1762,1762,1,False
+Camín del Texu,43.458737,-5.7560442,100,100,636,636,1,False
+Camín del Cantu Mareo,43.4820365,-5.6154353,106,106,552,552,1,False
+Plaza de Roces,43.5088858,-5.6783134,48,48,971,971,1,False
+Calle Canarias,43.5256505,-5.677636,22,31,506,359,0.997586,False
+Calle América,43.541723,-5.6843179,19,26,503,367,0.943576,False
+Camín de La Quintana,43.4932103,-5.6699121,115,115,300,300,1,False
+Carril Bici Av. de Portugal,43.5366666,-5.6736567,35,35,231,231,1,False
+Hotel La Boroña,43.5090897,-5.6949084,102,102,640,640,1,False
+Calle José Moreno,43.5183738,-5.667304,48,48,971,971,1,False
+Campo de Futbol,43.5353847,-5.6377475,26,34,247,189,0.98888,False
+Camín de Payares,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camino Cuesta de Luciano,43.544159,-5.6164963,49,49,463,463,1,False
+Camino de Casa Campo,43.548433,-5.7064423,19,26,503,367,0.943576,False
+Camín del Arroyo del Bustiu,43.4954436,-5.6935398,53,53,1368,1368,1,False
+Ecuador,43.5384592,-5.695343,19,26,503,367,0.943576,False
+Parque María Teresa González,-30.0150729,-71.2658467,50,50,1200,1200,1,False
+Calle Maestro Amado Morán,43.5371429,-5.6962931,42,42,462,462,1,False
+Calle María Moliner,43.5283774,-5.6601325,24,29,384,318,0.998087,False
+Hermanos Felgueroso,43.533794,-5.6574474,27,34,503,399,0.996471,False
+Parque de la Fábrica de Luz,43.5323905,-5.6646225,24,29,384,318,0.998087,False
+Avda. Lloreda,43.5250214,-5.7134478,54,54,1118,1118,1,False
+Calle Sierra del Sueve,43.5279827,-5.6834987,87,87,51,51,1,False
+Calle Enrique Martínez,43.53669,-5.6530359,33,33,219,219,1,False
+Calle Alexander Graham Bell,43.508579,-5.6820351,53,53,1368,1368,1,False
+Carretera de Puente Seco a Muniello,43.5347094,-5.7176377,73,73,663,663,1,False
+Calle Concejo de Coaña,43.523754,-5.6541765,28,28,258,258,1,False
+Calle Carlos Ibañez de Ibero (Geodesta),43.5213476,-5.6077479,49,49,1147,1147,1,False
+Camín de los Castañales,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle del Rosario,43.5464844,-5.664112,35,35,231,231,1,False
+Camín de Constancio,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Juan Andrés Suárez García,43.5226602,-5.6840122,37,37,101,101,1,False
+Calle Torre Bermeja,43.5266984,-5.6835409,30,35,377,323,0.982285,False
+Camin de la Pasadiella,43.513359,-5.6015409,50,50,1092,1092,1,False
+Camin del Mirador,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Anselmo Solar,43.5298678,-5.6443009,49,49,1147,1147,1,False
+Calle Río Sil,43.5225433,-5.6651774,48,48,1664,1664,1,False
+Camín de La Forcada,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Los Arrieros,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Menén Pérez,43.5399126,-5.6616343,15,24,477,298,0.94469,False
+Camin de la Colina del Cuervo,43.5514948,-5.6153588,50,50,458,458,1,False
+Calle Tomás Zarracina,43.5409028,-5.6630713,29,29,169,169,1,False
+Camino del Ponton,43.5256566,-5.7051011,74,74,668,668,1,False
+Camino de Los Llanos,43.483163,-5.7732547,116,116,228,228,1,False
+Camín de Reganorio,43.4981497,-5.6847326,46,46,222,222,1,False
+Carretera de Avilés,43.5373045,-5.7125139,46,46,56,56,1,False
+Camín de Luis,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Plaza Seis de Agosto,43.5393583,-5.6635586,15,24,477,298,0.94469,False
+Plaza de Gerardo Diego,43.5228664,-5.687606,32,36,117,104,0.613967,False
+Camín de la Pileta,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Casares a Arroyo,43.4818789,-5.7051578,53,53,1368,1368,1,False
+Calle Granados,43.5348197,-5.6506809,28,34,485,399,0.997318,False
+Camin de les Xanes,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Azorín,43.5185543,-5.6702025,48,48,971,971,1,False
+FEVE,43.545229,-5.6619245,29,29,169,169,1,False
+Camín de los Caños,43.4862262,-5.7034707,38,38,282,282,1,False
+Calle Fuente del Real,43.5317196,-5.6585783,24,29,384,318,0.998091,False
+Calle Santa Lucía,43.5428558,-5.6638186,29,29,169,169,1,False
+Camín de Casa Peri,43.504245,-5.7293,60,60,263,263,1,False
+Calle José María Martínez,43.520745,-5.6557921,28,28,258,258,1,False
+Fonte La Pinganiella,43.4668454,-5.660635,36,36,914,914,1,False
+Calle Puerto de Vegarada,43.5309955,-5.6786495,74,74,22,22,1,False
+Parking Poniente,43.5382618,-5.7082194,17,17,44,44,1,False
+Calle Los Evaristos,43.5349588,-5.6688786,30,35,377,323,0.982285,False
+Acceso A-8 Villaviciosa - Santander,43.5344401,-5.6447405,28,34,485,399,0.997318,False
+Calle Jimena Menendez Pidal,43.526202,-5.686372,87,87,51,51,1,False
+Calle San Bernardo,43.5411147,-5.6612068,15,23,477,311,0.94469,False
+Avenida de Concha Espina,43.5224594,-5.6848637,37,37,101,101,1,False
+Avenida del Jardín Botánico,43.5266357,-5.6233666,49,49,1147,1147,1,False
+Parque Calle Barros,-31.4361712,-64.1880007,37,37,124,124,1,False
+Centro Cultural,43.4951359,-5.6798388,49,49,209,209,1,False
+La Casona,43.4675006,-5.7346154,100,100,636,636,1,False
+Camín de Los Nardos,43.4862262,-5.7034707,38,38,282,282,1,False
+Estación de Servicio,37.9825453,-2.330302,96,96,500,500,1,False
+Calle H Ferradores,43.4854231,-5.653781,44,44,205,205,1,False
+Calle Linares Rivas,43.5428087,-5.6653517,29,29,169,169,1,False
+Camin de Deva,43.5106642,-5.6026174,104,104,589,589,1,False
+Parque del Cabo San Lorenzo,43.5545168,-5.6196478,49,49,463,463,1,False
+Calle Trinidad,43.5442965,-5.6637389,44,44,552,552,1,False
+Camín de Trubia a Somonte,43.505356,-5.7399042,113,113,246,246,1,False
+Calle París,43.5346674,-5.6399725,27,35,238,183,0.986887,False
+Calle Pavía,43.5398015,-5.6819157,20,26,305,234,0.969312,False
+Calle Santa Rosa,43.5432229,-5.6636129,28,35,485,388,0.997122,False
+Calle Rafael Alberti,43.5214635,-5.6880196,32,36,117,104,0.613967,False
+Concejo de Grado,43.5415518,-5.7090502,42,42,462,462,1,False
+Calle Benjamín Franklin,43.5073094,-5.6915645,100,100,636,636,1,False
+Camin del Cuestu,43.4711707,-5.7193573,62,62,840,840,1,False
+Puao Alto,43.4817394,-5.6788321,113,113,311,311,1,False
+Acceso Playa,-34.7548436,-72.083553,49,49,2003,2003,1,False
+Calle Espaciosa,43.542782,-5.6633659,28,28,263,263,1,False
+Camín de la Fonte'l Cuetu,43.4871617,-5.6301164,33,33,152,152,1,False
+Calle Buen Suceso,43.5427303,-5.6635404,8,8,21,21,1,False
+Jardines de la Maestra Eladia García Palacios,37.3368275,-5.8313373,29,29,77,77,1,False
+Calle Santa Emilia,43.5229326,-5.6556475,28,28,258,258,1,False
+Calle Móstoles,40.3233492,-3.8694216,16,22,73,53,0.99,False
+Parque Arqueológico Campa de Torres,43.5551564,-5.7100732,42,42,462,462,1,False
+Camín de Calacierbes,43.5106051,-5.7238859,60,60,263,263,1,False
+Camino del Santuario,43.5185749,-5.6612491,48,48,1664,1664,1,False
+Camino de la Mina,43.4868745,-5.7409442,100,100,636,636,1,False
+Camín del Pozu,43.458737,-5.7560442,100,100,636,636,1,False
+Camino Monte de la Llana,43.5371732,-5.7376632,48,48,408,408,1,False
+Camín del Caleyón,43.4875517,-5.7546772,62,62,838,838,1,False
+Calle Carlos III,43.5365997,-5.6501619,14,24,511,298,0.948049,False
+"Calle E ""Entibadores""",43.534526,-5.7181479,74,74,668,668,1,False
+Camín de Caraveo,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de Los Pedregales,43.4862262,-5.7034707,38,38,282,282,1,False
+Carretera del Fondon,43.5023847,-5.5997349,47,47,1724,1724,1,False
+Carril Bici del Muro,43.5420472,-5.6590004,14,24,511,298,0.948049,False
+Camino de La Bomba,43.5477046,-5.7036197,52,52,14,14,1,False
+Calle San Avelino,43.5319055,-5.6439288,28,35,485,388,0.997122,False
+Calle Grueros,43.517431,-5.6789555,53,53,1368,1368,1,False
+Llorio de Riba,43.4893886,-5.681696,42,42,525,525,1,False
+Calle Alfonso I,43.5366073,-5.6554004,14,24,511,298,0.948049,False
+Calle La Cultura,-11.3254112,-74.52984,56,56,985,985,1,False
+Plaza de Toros,37.8397144,-6.448835,22,22,169,169,1,False
+El Roble,43.5244876,-5.6005447,36,36,347,347,1,False
+Calle María de las Alas Pumariño,43.5165767,-5.6832821,31,31,60,60,1,False
+Camín de Porreza,43.5176117,-5.7150065,117,117,194,194,1,False
+Portuarios,43.545229,-5.6619245,29,29,169,169,1,False
+Camín del Arenero,43.458737,-5.7560442,100,100,636,636,1,False
+Camín de Monja,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Quevedo,43.5315204,-5.6505127,28,28,258,258,1,False
+Camino el Barriosu,43.4606632,-5.6531752,36,36,914,914,1,False
+Hotel,43.5090897,-5.6949084,102,102,640,640,1,False
+"Plaza de José González ""El Presi""",43.5418514,-5.6659756,29,29,169,169,1,False
+Estación de Aboño,43.5532773,-5.7147539,48,48,163,163,1,False
+Dolores,43.5235663,-5.6676721,48,48,971,971,1,False
+Camín del Mataderu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Electra,43.5340702,-5.6646318,25,31,445,359,0.999262,False
+Humedal (Lado Cabina),43.5398886,-5.6667847,28,28,263,263,1,False
+Calle Don Juan de Austria,39.6647658,-0.2367279,75,75,371,371,1,False
+Camín de La Piquiella,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de la Vallina,43.4989569,-5.7193424,44,44,15,15,1,False
+Carril bici de Roces,43.5110532,-5.6689137,113,113,311,311,1,False
+Juvería,43.5301696,-5.7139931,74,74,668,668,1,False
+Calle Eduardo Varela,43.5175597,-5.6687767,48,48,971,971,1,False
+Calle de Los Escritores,36.411357,-5.2125652,110,110,465,465,1,False
+Camín de San Xuan,43.483759,-5.7011194,38,38,282,282,1,False
+Avenida de La Xuvería,43.5301696,-5.7139931,74,74,668,668,1,False
+Maestro Ángel Muñiz Toca,43.5295489,-5.6432389,49,49,1147,1147,1,False
+Cruz Roja,2.4826434,-76.565825,29,39,1004,747,0.986969,False
+Camín de la Rastrera,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Piñera de Abajo,43.4830894,-5.7363059,62,62,840,840,1,False
+Feijoo,43.5321006,-5.6508833,28,28,258,258,1,False
+"Carretera de Luanco a Veriña, por Candás",43.5495095,-5.7302875,74,74,668,668,1,False
+Urbanizacion Parque Somió,43.5413928,-5.6399324,45,45,540,540,1,False
+Urbanización los Pedregales,43.5155719,-5.6771723,48,48,971,971,1,False
+Calle Núñez de Balboa,43.5394133,-5.7030341,42,42,462,462,1,False
+Camping Buenavista,43.5496575,-5.6367656,50,50,458,458,1,False
+Calle Esperanto,43.531479,-5.6497244,28,28,258,258,1,False
+Centro Nuevas Tecnologias,42.1501328,2.4633797,48,58,194,161,1,False
+Travesia del Convento,43.5406792,-5.6588481,14,24,511,298,0.948049,False
+Parque del Cerro,40.3988854,-3.6560083,31,31,30,30,1,False
+Avenida de Roces (Campo Fútbol),43.5110532,-5.6689137,113,113,311,311,1,False
+Camín del Rocinón,43.4720542,-5.7416692,62,62,840,840,1,False
+Camin de La Campa,43.5582353,-5.7084769,48,48,163,163,1,False
+Calle Begoña,43.5414571,-5.6625925,14,24,511,298,0.948049,False
+Calle Perú,43.5405208,-5.6965072,19,25,503,382,0.945336,False
+Camino de Los Tulipanes,43.5302363,-5.6291088,30,30,89,89,1,False
+Calle Japón,43.5211098,-5.6706986,29,29,137,137,1,False
+Parque Fluvial,41.8656625,-0.7867609,41,41,72,72,1,False
+Calle Arquìmedes,43.5069898,-5.6888218,100,100,636,636,1,False
+Calle Llanes,43.5391717,-5.6671784,27,35,503,388,0.997122,False
+Calle Foces del Río Aller,43.5379506,-5.6812408,19,26,321,234,0.970655,False
+Calle K Posteadores,43.4859565,-5.6540388,37,37,77,77,1,False
+C.P. Begoña,43.5414571,-5.6625925,13,23,550,311,0.948049,False
+Calle Central,43.5400541,-5.6994485,19,25,503,382,0.945336,False
+Calle La Felguera,43.5370808,-5.6543429,13,23,550,311,0.948049,False
+Calle Ramón Álvarez Palomo,43.5313124,-5.6455669,27,35,503,388,0.997122,False
+Camín de Bernardón,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle del Arquitecto Mariano Marín Magallán,43.5377115,-5.7054639,54,54,1118,1118,1,False
+Irene Fernández,43.5196156,-5.6681291,113,113,128,128,1,False
+Parque de las Palmeras,43.5209671,-5.6672702,48,48,971,971,1,False
+Calle L Lampisteros,43.4845529,-5.6553422,37,37,77,77,1,False
+Calle Menéndez Valdés,43.540457,-5.6597233,13,23,550,311,0.948049,False
+Camín de Granda,43.4964242,-5.6699066,49,49,209,209,1,False
+Plaza del Padre Máximo González,43.5395632,-5.6780243,26,26,67,67,1,False
+Calle Decoradores,43.5179578,-5.679691,53,53,1368,1368,1,False
+Incorporacion A-8 Santander,7.877122,-72.5055969,46,46,474,474,1,False
+Calle Maternidad,43.5381121,-5.6656133,26,35,522,388,0.99332,False
+Calle Príncipe,43.5370017,-5.6568655,13,23,550,311,0.948049,False
+Calle La Argandona,43.5341621,-5.663022,48,48,1664,1664,1,False
+GJ-81 Acceso Sur a Gijón,43.5317665,-5.682925,87,87,51,51,1,False
+Calle Santa Cruz,43.5304108,-5.6834098,64,64,26,26,1,False
+Camín de la Peñona,43.4795803,-5.7446094,69,69,16,16,1,False
+Parque del Ingeniero Orueta,43.5246017,-5.66838,53,53,1368,1368,1,False
+Calle Padilla,43.5392244,-5.6625056,13,23,550,311,0.948049,False
+Calle Electricistas,43.5189034,-5.680778,21,21,141,141,1,False
+Parque de Los Caleros,43.5165527,-5.6723966,48,48,971,971,1,False
+Calle Donato Argüelles,43.5400444,-5.6648153,13,23,550,311,0.948049,False
+E.S. Centro de Transportes,36.713308,-4.5125509,80,80,83,83,1,False
+Camín de Las Violetas,43.5311153,-5.6170445,36,36,347,347,1,False
+Travesía del Campo Valdés,43.5456122,-5.6623719,29,29,169,169,1,False
+Glorieta de Pumarín,43.5288394,-5.677682,21,27,37,29,1,False
+Camín de Faro,43.4456552,-5.6216794,48,48,1664,1664,1,False
+Escuela de Marina,43.5380534,-5.7187087,73,73,663,663,1,False
+Calle Alfonso X El Sabio,43.5349048,-5.6700387,25,25,62,62,1,False
+Calle Callao,43.5399261,-5.694854,19,26,503,367,0.947978,False
+Avenida del Transporte,43.5298851,-5.7037902,54,54,1118,1118,1,False
+Accesos a la Iglesia,43.4555697,-5.6094439,49,49,1450,1450,1,False
+Salida a AS-18,20.7121742,-100.8386962,36,36,2220,2220,1,False
+Carril bici Calle Juan Botas,43.5277945,-5.6533993,28,28,258,258,1,False
+Travesia de la Iglesia,43.5476349,-5.7021524,26,33,5,4,0.6,False
+Puentin de Deva,43.5106642,-5.6026174,104,104,589,589,1,False
+Camín de La Coroniella,43.4795803,-5.7446094,69,69,16,16,1,False
+Avenida Hermanos Felgueroso,43.533794,-5.6574474,26,35,522,388,0.992653,False
+Calle Doctor Carlos Prieto,43.54513,-5.6998082,42,42,462,462,1,False
+Calle Los Pinos,43.5313349,-5.6954627,54,54,1118,1118,1,False
+La Granja (Providencia),24.0049616,-104.6383967,27,27,226,226,1,False
+Camín de Casimirín,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Álava,43.5235781,-5.6785156,26,31,428,359,0.998543,False
+Camín de La Unión,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Daoíz y Velarde,43.5400651,-5.683542,19,26,321,234,0.977626,False
+Camín de la Iglesia,43.4795803,-5.7446094,69,69,16,16,1,False
+Camín de Barrea,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Camín de Casa Cantora,43.5063319,-5.6396435,35,35,143,143,1,False
+Camín de Tremañes a Xixon,43.5131089,-5.7106317,110,110,29,29,1,False
+Plaza del Tallerón,43.5253031,-5.6685766,29,29,137,137,1,False
+Calle María Cristina,43.5303933,-5.6510262,28,28,258,258,1,False
+Camín del Curullu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle de Los Traductores,41.6777752,-4.7188278,103,108,1385,1321,0.998872,False
+Calle Cuenca,43.5341338,-5.660141,26,29,355,318,0.998091,False
+Calle Gerona,43.5412924,-5.6853131,19,26,503,367,0.948972,False
+Camín Vieyu de El Musel,43.5451848,-5.7018595,42,42,462,462,1,False
+Arquitecto Javier Esteban Infantes,43.5352041,-5.6977132,19,26,503,367,0.949846,False
+Carretera Carbonera,43.5171094,-5.67608,48,48,971,971,1,False
+Calle Río Narcea,43.5202699,-5.6654743,26,29,355,318,0.998091,False
+Camín de Los Almendros,43.4862262,-5.7034707,38,38,282,282,1,False
+Carril bici Avenida del Jardín Botánico,43.5266357,-5.6233666,49,49,1147,1147,1,False
+Avenida de Oviedo,43.5219611,-5.6833465,26,31,428,359,0.997566,False
+Calle La Merced,43.54169,-5.6619834,26,35,522,388,0.99189,False
+Calle Alonso de Ojeda,43.5313188,-5.6683032,26,31,428,359,0.997566,False
+La Teyerona,43.5288211,-5.6535491,28,28,258,258,1,False
+Carretera de Sotiello,43.5177227,-5.717708,117,117,194,194,1,False
+Travesía de las Ciudades Hermanadas,43.527508,-5.6503093,28,28,258,258,1,False
+Caleya del Valle,43.4564554,-5.6078278,47,47,1724,1724,1,False
+Camino del Riche,43.5578839,-5.7130581,48,48,163,163,1,False
+Avenida de La Literatura,20.607382,-100.440623,40,40,76,76,1,False
+Central Electrica,36.8602782,-4.7187452,37,37,1163,1163,1,False
+Calle Carlos Marx,43.5366388,-5.6734794,28,28,263,263,1,False
+Aparcamiento La Calzada,43.5392956,-5.6947164,42,42,462,462,1,False
+Camín de las Moreras,43.4960555,-5.6995711,29,29,171,171,1,False
+Paseo fluvial del río Piles,43.1692288,-5.8289114,42,42,1702,1702,1,False
+Camín del Quemaderu,43.458737,-5.7560442,100,100,636,636,1,False
+Parque León XIII,43.532666,-5.6589857,29,29,318,318,1,False
+Sanatorio Maritimo,36.6394739,-4.49075,43,43,1442,1442,1,False
+Calle Corín Tellado,43.5275031,-5.6436122,106,106,552,552,1,False
+Calle Zumalacárregui,43.540913,-5.6844088,19,26,503,367,0.945538,False
+Camino de Los Prunos,43.5416194,-5.6311881,49,49,463,463,1,False
+Calle Oriental,43.5404769,-5.697003,19,26,503,367,0.945538,False
+Calle Simón Bolivar,43.5371183,-5.7003009,8,8,11,11,1,False
+Luis Infiesta,43.5101722,-5.7273412,60,60,263,263,1,False
+Calle Fermín Suárez,43.5400198,-5.6821227,18,25,339,244,0.977626,False
+Camín de la Fonte de San Feliz,43.5017174,-5.7099694,102,102,640,640,1,False
+Camín de la Corolla,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Concejo de Salas,43.5407853,-5.7093177,19,26,503,367,0.945538,False
+Supercor,43.545229,-5.6619245,29,29,169,169,1,False
+Paseo fluvial del Rio Piles,43.1692288,-5.8289114,42,42,1702,1702,1,False
+Camín del Riu,43.458737,-5.7560442,100,100,636,636,1,False
+El Transformador,41.0005974,-5.667034,85,85,610,610,1,False
+Calle Concejo de Ibias,43.5214537,-5.6509009,110,110,42,42,1,False
+Camino de Las Madreselvas,43.529579,-5.6275891,30,30,89,89,1,False
+Camín de Las Azaleas,43.5287802,-5.6152268,36,36,347,347,1,False
+Camín del Ranu,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Pintor Mariano Moré,43.5408733,-5.6697923,35,35,231,231,1,False
+Parque de Vicente Ferrer,43.5173682,-5.6722949,48,48,971,971,1,False
+Camino del Cierro del Monte,43.5154929,-5.7031318,110,110,29,29,1,False
+Muelle de Liquerique,43.5651054,-5.6945618,73,73,663,663,1,False
+Cangas de Onis,43.5365703,-5.6675322,29,36,390,314,0.97637,False
+Estación del ferrocarril (Este),42.2374843,2.2844173,46,46,360,360,1,False
+Aparcamiento Hotel,43.5090897,-5.6949084,102,102,640,640,1,False
+Calle Alarcón,43.5359392,-5.6521856,27,35,503,388,0.995692,False
+Calle Francisco Grande Covián,43.5317122,-5.6711574,29,36,390,314,0.97637,False
+Camino del Bebederu,43.4941243,-5.6531049,48,48,1664,1664,1,False
+Calle Isaac Newton,43.5080558,-5.6800204,53,53,1368,1368,1,False
+Calle Santa Rosalía,43.5295667,-5.6676438,18,25,221,159,0.98257,False
+FLC,43.545229,-5.6619245,29,29,169,169,1,False
+Calle Los Blimales,43.5307115,-5.693222,56,56,886,886,1,False
+Calle las Escuelas,43.5602869,-5.7054797,42,42,462,462,1,False
+Camino de la Marruca,43.4998362,-5.6774282,113,113,311,311,1,False
+Calle El Cuélebre,43.5602918,-5.7055466,42,42,462,462,1,False
+Federica Montseny,43.542944,-5.6987007,19,26,503,367,0.94633,False
+Avenida de Schulz,43.5312942,-5.6661761,48,48,1664,1664,1,False
+Parking Zarracina,43.5104747,-5.608046,104,104,589,589,1,False
+Plaza de la República,43.5341755,-5.6490395,27,35,503,388,0.995692,False
+Avenida de Torcuato Fernandez Miranda,43.5356892,-5.6410411,27,33,238,194,0.99,False
+Calle Federico García Lorca,43.5217623,-5.6870143,32,36,117,104,0.557989,False
+Camín de la Caleyona,43.4456552,-5.6216794,48,48,1664,1664,1,False
+Plaza de las Brigadas Internacionales,43.5191514,-5.6731109,25,25,329,329,1,False
+Calle Pablo de Olavide,43.5260527,-5.6646564,18,26,221,153,0.98257,False
+Camín de los Felechales,43.4862262,-5.7034707,38,38,282,282,1,False
+Camino de Granda a Contrueces,43.5083504,-5.6617108,115,115,300,300,1,False
+Finca Potros,43.4989653,-5.5761335,104,104,589,589,1,False
+Plaza de la Ciudad de La Habana,43.5370008,-5.6834743,39,39,477,477,1,False
+Calle Pelayo,43.5385537,-5.6626934,13,23,550,311,0.948059,False
+Camin del Grupo Balagon,43.5278809,-5.6896153,99,99,62,62,1,False
+Calle de Los Editores,37.1010452,-4.3672062,53,53,1333,1333,1,False
+Calle Compositor Facundo de la Viña,43.5291615,-5.6457902,27,35,503,388,0.995692,False
+Camín del Pozón,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Ateneo de La Calzada,43.5392956,-5.6947164,42,42,462,462,1,False
+Plaza Juan A. Rubio,43.5193132,-5.6713982,48,48,971,971,1,False
+Carretera de Granda,43.5147198,-5.6439205,104,104,45,45,1,False
+Calle 27 de Diciembre,43.5448255,-5.6633566,29,29,169,169,1,False
+Camín de La Rotella,43.5072422,-5.6280277,41,41,683,683,1,False
+GJ-81,43.5242923,-5.6927936,99,99,62,62,1,False
+Camín del Gaiteru,43.458737,-5.7560442,100,100,636,636,1,False
+Las Cruces,43.5226876,-5.6023677,50,50,1092,1092,1,False
+Barrio de Los Caleros,43.5166358,-5.6735527,48,48,971,971,1,False
+Camino de La Tejerona,43.5297523,-5.6534256,28,28,258,258,1,False
+Estacion de servicio Veriña,43.5407689,-5.7221987,24,24,108,108,1,False
+Parking Begoña,43.5414571,-5.6625925,13,23,550,311,0.948059,False
+Calle María Asunción Catalá (Astrónoma),43.5215305,-5.6094719,49,49,1147,1147,1,False
+Calle Santa Ana,43.5377082,-5.6673186,27,35,503,388,0.995692,False
+Camín de Santa Maria,43.5333558,-5.6651751,24,30,464,371,0.997586,False
+Semana Negra,43.5472328,-5.6630615,48,48,1664,1664,1,False
+Camin del Transformador,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Antonio Tajani,43.5217155,-5.6848605,30,37,124,101,0.537827,False
+El Fielato,41.9511829,-3.0772786,46,46,905,905,1,False
+Hernán Cortés,43.5401007,-5.7037245,19,26,503,367,0.944982,False
+Iglesia de Cenero,43.5004052,-5.7336627,60,60,263,263,1,False
+Calle Canga Argüelles,43.539347,-5.650239,28,35,485,388,0.995692,False
+Playa de La Ñora,43.5331204,-5.5952074,44,44,552,552,1,False
+Subida al Cerro,43.5483258,-5.6658159,26,26,67,67,1,False
+Barrio Pescadores,-27.4602288,-58.8669,39,45,1121,971,0.97719,False
+Travesía de las Mimosas,43.5486828,-5.6360719,50,50,458,458,1,False
+Urgencias,43.545229,-5.6619245,29,29,169,169,1,False
+Acceso a la estación de Tremañes,40.4766614,-3.6543403,33,33,151,151,1,False
+Camin del Nietu,43.458737,-5.7560442,100,100,636,636,1,False
+Carretera de Deva,43.5106642,-5.6026174,104,104,589,589,1,False
+Mirador de La Providencia,43.5287708,-5.5953121,49,49,463,463,1,False
+Calle Ajustadores,43.5172052,-5.6782012,53,53,1368,1368,1,False
+Museo del Ferrocarril,43.5410461,-5.6722094,29,29,169,169,1,False
+Camín de San Miguel,43.5127288,-5.5858178,46,46,1762,1762,1,False
+Calle Marcelino González,43.5283552,-5.6649399,48,48,1664,1664,1,False
+Camín del Cotayón,43.458737,-5.7560442,100,100,636,636,1,False
+Parking Centro Comercial Los Fresnos,-18.0455081,-70.2539546,51,51,904,904,1,False
+Camín del Castillo,41.7611894,-5.7674187,81,81,833,833,1,False
+Entrada Xixón oeste,43.5080427,-5.724837,60,60,263,263,1,False
+Camin de les Fazones,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Picos de Europa,43.5368959,-5.6813543,35,35,231,231,1,False
+Plaza de Los Fotoperiodistas,43.5175567,-5.6708111,25,25,329,329,1,False
+Calle Manuel Fernández,43.5221233,-5.6893416,30,37,124,101,0.543624,False
+Camín de Lleme,43.499226,-5.7411937,117,117,194,194,1,False
+Carretera de Villaviciosa,43.5339574,-5.6405267,28,35,485,388,0.995692,False
+Camín de Casa los Lonjos,43.5019184,-5.5997454,104,104,589,589,1,False
+Jose Llama,43.5147283,-5.7258973,60,60,263,263,1,False
+Calle Carlos V,43.538465,-5.7039736,42,42,462,462,1,False
+Revillagigedo,43.545229,-5.6619245,29,29,169,169,1,False
+Camín del Cura,41.7611894,-5.7674187,81,81,833,833,1,False
+Camín de Caldones,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Plaza Madrid,40.2835486,-4.0194725,35,35,72,72,1,False
+Caleya de Calacierbes,43.5106051,-5.7238859,60,60,263,263,1,False
+Calle Concejo de Onís,43.5272633,-5.6460613,49,49,1147,1147,1,False
+Accesu sentíu Xixón,43.5090897,-5.6949084,102,102,640,640,1,False
+Avenida de Rufo Garcia Rendueles,43.5403303,-5.6502015,28,35,485,388,0.995692,False
+Calle Enrique III,43.5424795,-5.663274,28,35,485,388,0.995692,False
+La Cantabrica,43.522575,-5.6475081,108,108,63,63,1,False
+Maria Cristina,43.5303933,-5.6510262,28,28,258,258,1,False
+Casas JOP,43.5145636,-5.6678177,108,108,66,66,1,False
+Caleya de La Belga,43.4933248,-5.6652606,49,49,209,209,1,False
+Travesía de La Braña,43.5116069,-5.6729657,113,113,128,128,1,False
+La Panerona,43.3806403,-5.5931857,84,84,651,651,1,False
+Camín del Monte,43.4750111,-5.7010699,53,53,1368,1368,1,False
+Camín de Sirgo,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Biblioteca,43.545229,-5.6619245,29,29,169,169,1,False
+Camín de La Llomba,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle La Pumará,43.4868576,-5.6618365,44,44,205,205,1,False
+Museo Etnografico del Pueblo de Asturias,43.5382741,-5.6330111,45,45,540,540,1,False
+Camín de Las Caléndulas,43.4960555,-5.6995711,29,29,171,171,1,False
+Los Campos,42.0296682,-5.1468254,98,98,682,682,1,False
+Calle Segundo Blanco,43.5211193,-5.65648,28,28,258,258,1,False
+Camín de Mariñes,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Calle Azcárraga,43.5329738,-5.6632942,48,48,1664,1664,1,False
+Calle Atanasio Menéndez,43.5407175,-5.6815174,19,26,503,367,0.941617,False
+Camín de La Llongar,43.4795803,-5.7446094,69,69,16,16,1,False
+Oviedo-Porceyo,43.499397,-5.7070302,53,53,29,29,1,False
+Camín del Tambor,43.458737,-5.7560442,100,100,636,636,1,False
+Acceso al mirador,37.8465888,-3.3558707,29,29,415,415,1,False
+Camín del Foru,43.4971672,-5.6677532,49,49,209,209,1,False
+Estación de Servicio Viesques,37.9825453,-2.330302,96,96,500,500,1,False
+Calle Juan Alvargonzalez,43.5300044,-5.6665855,48,48,1664,1664,1,False
+Calle Guillermo Marconi,43.5106327,-5.6855303,100,100,636,636,1,False
+Parking Plaza de Europa,43.5380319,-5.6638426,12,23,596,311,0.944897,False
+Barrio Ciudad Virginia,43.4918317,-5.6487949,48,48,1664,1664,1,False
+Camín de Casa el Santu,43.5244876,-5.6005447,36,36,347,347,1,False
+Travesía del Mar,43.5414244,-5.6829215,19,25,503,382,0.938198,False
+Camín de la Piñera,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle Guipúzcoa,43.5252564,-5.6726386,24,29,166,137,0.99564,False
+Dionisio de la Huerta,43.5312471,-5.6336649,30,30,89,89,1,False
+Camín de la Pontica,43.5229541,-5.5970755,45,45,540,540,1,False
+Calle Joaquín Alonso Bonet,43.541734,-5.6675572,22,29,223,169,0.983569,False
+Calle Dionisio Fernández-Nespral Aza,43.5410208,-5.6717525,22,29,223,169,0.983569,False
+Calle Santo Domingo,43.5321401,-5.6567313,24,33,302,219,0.983854,False
+Camín de la Terrona,43.4795803,-5.7446094,69,69,16,16,1,False
+Rotonda de El Molinón,43.5353847,-5.6377475,27,33,238,194,0.99523,False
+Albert Einstein,43.5276009,-5.6344985,50,50,1092,1092,1,False
+Calle Fuerte Viejo,43.5480017,-5.665412,15,15,35,35,1,False
+Calle Luís de Vereterra Estrada,43.5064309,-5.7295339,117,117,194,194,1,False
+Calle Boal,43.5396809,-5.6984578,19,25,503,382,0.938198,False
+Calle Anselmo Cifuentes,43.5382439,-5.6623011,13,23,550,311,0.948299,False
+Muelle La Madera,43.4549879,-5.6797531,42,42,545,545,1,False
+Calle Carmen Conde,43.5209753,-5.6886576,66,66,34,34,1,False
+Calle Belmonte de Miranda,43.5414335,-5.669245,22,29,223,169,0.983569,False
+"Calle D ""Picadores""",43.485933,-5.6517524,36,36,914,914,1,False
+Calle Fortuna Balnearia,43.535471,-5.6700389,19,25,81,62,0.99,False
+Viaducto de Pinzales,43.4805537,-5.7503873,100,100,636,636,1,False
+Carretera de la Isla,43.5196736,-5.6153527,41,41,683,683,1,False
+Calle Brasil,43.5410939,-5.6977817,19,25,503,382,0.931686,False
+Avenida Del Mar,43.5234704,-5.6538767,28,28,258,258,1,False
+Calle Cura Sama,43.5402854,-5.657057,28,34,485,399,0.991533,False
+Camino de la,43.4663209,-5.6169404,49,49,1450,1450,1,False
+Calle Extremadura,43.5271365,-5.6705134,19,26,209,153,0.985228,False
+Pérez de Ayala,43.5321604,-5.6654564,48,48,1664,1664,1,False
+Calle de Las Mestas,43.5322695,-5.6418889,28,34,485,399,0.991533,False
+Plaza de Florencio Rodríguez,43.3929064,-5.6607106,44,44,202,202,1,False
+Puente Ronda,36.4959613,-6.264098,39,39,43,43,1,False
+Cai del Sol,43.5281568,-5.6790219,20,28,39,28,1,False
+Carretera de Somio,43.5359699,-5.6175308,45,45,540,540,1,False
+Camin del Monte,43.4750111,-5.7010699,53,53,1368,1368,1,False
+Calle Blanca de los Ríos,43.5424776,-5.6649552,22,29,223,169,0.983569,False
+Retonda de L'Empalme,43.4670943,-5.6899527,113,113,311,311,1,False
+Camín de La Mata d'Abaxo,43.5108451,-5.7024222,102,102,640,640,1,False
+Camín del Castañeu,43.4744927,-5.7129982,41,41,837,837,1,False
+Sogito,43.545229,-5.6619245,22,29,223,169,0.983569,False
+Pintor Marola,43.5363071,-5.6456236,27,34,238,189,0.99523,False
+Camino de la Pipa,43.5389232,-5.6105323,49,49,463,463,1,False
+Jardines de El Náutico,43.542098,-5.6604849,13,23,550,311,0.945136,False
+Carril bici de Montevil,43.5183512,-5.6698714,48,48,971,971,1,False
+Calle Premio Real,43.5394907,-5.6528879,13,23,550,311,0.945136,False
+Calle Fogoneros,43.4859165,-5.6503949,36,36,914,914,1,False
+Camín de la Llosa la Muria,43.4848537,-5.6273653,33,33,152,152,1,False
+Iglesia de San Julián,40.0464515,-4.5243761,68,68,720,720,1,False
+Lloreda,43.5200547,-5.7136357,113,113,246,246,1,False
+Crisantemos,43.5274099,-5.6135816,49,49,1147,1147,1,False
+Carretera de Veriña a San Andrés,43.5280275,-5.7388358,50,50,383,383,1,False
+La Coría,43.5227381,-5.6533116,28,28,258,258,1,False
+Parque Julián Besteiro,43.5456749,-5.6345124,49,49,463,463,1,False
+E.S. El Cerillero,43.5425888,-5.7092119,42,42,462,462,1,False
+Acceso RoRo,43.5090897,-5.6949084,102,102,640,640,1,False
+Agricultura,43.5274905,-5.7159974,74,74,668,668,1,False
+Camín del Barréu,43.5212581,-5.5973759,49,49,1147,1147,1,False
+Calle Antonio Machado,43.5179177,-5.6709732,48,48,971,971,1,False
+Camín de la Frontera,43.4795803,-5.7446094,69,69,16,16,1,False
+Calle María Zambrano,43.5384426,-5.6997981,20,25,477,382,0.928691,False
+Camino de Mareo a Granda,43.4981497,-5.6847326,46,46,222,222,1,False
+Avenida de El Cerilleru,43.5425888,-5.7092119,42,42,462,462,1,False
+Puerto de Somiedo,43.531494,-5.6762379,59,74,27,22,1,False
+Parque de Los Pericones,43.5177009,-5.6706432,48,48,971,971,1,False
+La Pedrera,43.4922381,-5.6932811,38,38,279,279,1,False
+Mar Cantábrico,43.5234704,-5.6538767,28,28,258,258,1,False
+Camín de Les Lloses,43.4707484,-5.7102691,53,53,1368,1368,1,False
+Calle Benito Otero Martínez,43.5120381,-5.669549,113,113,128,128,1,False
+Las 1500,43.55791,-5.7121683,48,48,163,163,1,False
+Plaza de Los Encuentros,43.5175567,-5.6708111,25,25,329,329,1,False
+La Campa Torres,43.5581067,-5.7094561,48,48,163,163,1,False
+Rotonda del Piles,43.5311119,-5.6729924,31,36,364,314,0.986848,False
+"Carretera Pola de Siero - El Infanzón, por Peón",43.5041011,-5.5830701,46,46,1762,1762,1,False
+Calle Peña Santa de Enol,43.5259479,-5.6802332,31,36,364,314,0.986848,False
+Camin del Tate,43.458737,-5.7560442,100,100,636,636,1,False
+Calle Poeta Luis Álvarez Piñer,43.5198026,-5.6693245,48,48,971,971,1,False
+Monsacro,43.5260339,-5.6838134,25,31,445,359,0.996635,False
+La Corolla,43.5396901,-5.6222287,44,44,552,552,1,False
+Camín del Llagar,43.458737,-5.7560442,100,100,636,636,1,False
+Camín de Llinares,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Daniel Palacio,43.5273513,-5.650578,108,108,63,63,1,False
+Accesos a Comisaría,43.5090897,-5.6949084,102,102,640,640,1,False
+Camín del Herón,43.458737,-5.7560442,100,100,636,636,1,False
+Estacion de La Calzada,40.473765,-3.8368361,41,41,82,82,1,False
+Camín de Ceares a Castiello,43.5177038,-5.6463226,104,104,45,45,1,False
+Camín del Regatu del Roxu,43.458737,-5.7560442,100,100,636,636,1,False
+Camín del Fuerte,43.458737,-5.7560442,100,100,636,636,1,False
+Travesía 2 de Los Acebos,43.5439227,-5.63197,44,44,552,552,1,False
+Carbayera de Foxanes,43.5328434,-5.6206807,36,36,347,347,1,False
+Calle Sigmund Freud,43.5079373,-5.6924451,100,100,636,636,1,False
+Camín de Robleo,43.4850737,-5.6199934,49,49,1450,1450,1,False
+Travesía de Les Canales,43.490887,-5.720712,62,62,838,838,1,False
+Estacion de Servicios Pol Bankunion 1,43.5409364,-5.6667414,28,35,485,388,0.995041,False
+Carretera de Mareo a Granda,43.5001181,-5.6861562,53,53,1368,1368,1,False

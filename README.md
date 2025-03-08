@@ -1,7 +1,5 @@
-# 🚗 Proyecto de ML No Supervisado del Tráfico en Asturias 🛏️  
+# 🚗 Proyecto de ML No Supervisado del Tráfico en Asturias
 ### *Optimización del tráfico usando Machine Learning*  
-
-![Mapa de Asturias](https://upload.wikimedia.org/wikipedia/commons/2/2b/Mapa_de_Asturias.png)  
 
 ## 📌 Descripción  
 Este proyecto analiza el tráfico en el Principado de Asturias y aplica técnicas de **Machine Learning** no supervisado para agrupar con clustering, reducir dimensionalidad y detectar anomalías del tráfico, también crea un recomendador de rutas con clustering previo con el algoritmo Dijkstra.  

@@ -13,10 +13,9 @@ Este proyecto analiza el tráfico en el Principado de Asturias y aplica técnica
 │-- 📊 trafico_asturies_dia.csv # Datos de tráfico de un día
 ```
 
-## 🎯 Cómo Ejecutar
-1⃣ Instalar dependencias con `pip install -r requirements.txt`.
+## 🎯 Cómo Ejecutar el recomendador
+1⃣ Instalar dependencias con `pip install -r requirements.txt`.  
 2⃣ Ejecutar `python recomendadorRuta.py`.  
-
 3⃣ Seleccionar la calle de origen y destino.  
 4⃣ ¡Ya puedes ver la mejor ruta y visualizarla en el mapa!  
 

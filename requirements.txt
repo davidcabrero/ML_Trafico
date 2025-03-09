@@ -1,0 +1,10 @@
+PyQt6
+PyQt6-WebEngine
+pandas
+numpy
+networkx
+folium
+scikit-learn
+geopy
+matplotlib
+seaborn
